@@ -28,10 +28,44 @@
             <li><a href="home.html">Home</a></li>
             <li><a href="nieuws.html">Nieuws</a></li>
             <li class="active"><a href="form.html">Formulier</a></li>
+            <li class="dropdown">
+              <a href="#" class="dropdown-toggle" data-toggle="dropdown">Oracle <span class="caret"></span></a>
+              <ul class="dropdown-menu">
+                <li><a href="wat.html">Wat is Oracle</a></li>
+                <li><a href="vader.html">Mijn vader</a></li>
+                <li><a href="geschiedenis.html">Geschiedenis</a></li>
+              </ul>
+            </li>
           </ul>
         </div>
       </div>
     </nav>
+
+    <form action="form.html">
+      <div class="form-group">
+        <label for="naam">Naam:</label>
+        <input type="text" class="form-control" data-toggle="collapse" data-target="#name" id="naam">
+        <div id="name" class="collapse">Vul uw naam in</div>
+      </div>
+      <div class="form-group">
+        <label for="adres">Adres:</label>
+        <input type="text" class="form-control" data-toggle="collapse" data-target="#adress" id="adres">
+        <div id="adress" class="collapse">Vul uw adres in</div>
+      </div>
+      <div class="checkbox">
+        <label><input type="checkbox"> Remember me</label>
+      </div>
+      <button type="submit" class="btn btn-default">Submit</button>
+
+      <script>
+        $('form-control').hover(
+          function() {
+            $('.collapse').collapse('show');
+          }, function() {
+            $('.collapse').collapse('hide');
+          }
+        );
+      </script>
 
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
   </body>
