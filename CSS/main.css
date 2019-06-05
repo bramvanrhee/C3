@@ -1,3 +1,14 @@
 .dropdown-menu {
   background-color: lightgrey;
 }
+
+footer {
+  background-color: #212322;
+  color: #e5e5e5;
+  margin-top: 100px;
+}
+
+.fab {
+  color: #e5e5e5;
+  margin-bottom: 6px;
+}
