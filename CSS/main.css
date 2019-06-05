@@ -16,3 +16,17 @@ footer {
 .list-group {
   margin-top: 100px;
 }
+
+.row {
+  background-color: lavender
+}
+
+.col1 {
+  background-color: black;
+  height: 100px;
+}
+
+.col2 {
+  background-color: white;
+  height: 100px;
+}
