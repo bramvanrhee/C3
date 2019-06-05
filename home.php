@@ -81,6 +81,14 @@
     <div class="container">
 
       <div class="row">
+        <div class="col-md centered">
+          <div class="col2">
+             <iframe src="https://www.pietsweer.nl/utils/weather-widget/" width="100%" height="100%"></iframe>
+          </div>
+        </div>
+      </div>
+
+      <div class="row">
         <div class="col-md-4">
           <div class="img"><img src="IMG/test1.jpg" class="img-responsive"></div>
         </div>
@@ -104,6 +112,29 @@
         </div>
       </div>
 
+      <div class="row">
+        <div class="col-md-4">
+          <div class="img"><img src="IMG/test1.jpg" class="img-responsive"></div>
+        </div>
+        <div class="col-md-4">
+          <div class="img"><img src="IMG/test.jpg" class="img-responsive"></div>
+        </div>
+        <div class="col-md-4">
+          <div class="img"><img src="IMG/test1.jpg" class="img-responsive"></div>
+        </div>
+      </div>
+
+      <div class="row">
+        <div class="col-md-4">
+          <div class="col1"></div>
+        </div>
+        <div class="col-md-4">
+          <div class="col1"></div>
+        </div>
+        <div class="col-md-4">
+          <div class="col1"></div>
+        </div>
+      </div>
     </div>
 
 <!-- Categories -->

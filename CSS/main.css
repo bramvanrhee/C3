@@ -20,12 +20,18 @@ footer {
 .col1 {
   background-color: black;
   color: white;
-  height: 210px;
+  height: 175px;
   border-top: 1px solid white;
+}
+
+.col2 {
+  margin-top: 100px;
+  height: 200px;
+  border: 10px solid black;
 }
 
 .img {
   margin-top: 100px;
   background-color: white;
-  height: 210px;
+  height: 200px;
 }
