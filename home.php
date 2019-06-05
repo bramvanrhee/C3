@@ -27,16 +27,16 @@
           </div>
           <div class="collapse navbar-collapse" id="navCollapse">
           <ul class="nav navbar-nav">
-            <li class="active"><a href="home.html">Home</a></li>
-            <li><a href="nieuws.html">Nieuws</a></li>
-            <li><a href="form.html">Formulier</a></li>
-            <li><a href="comment.html">Reacties</a></li>
+            <li class="active"><a href="home.php">Home</a></li>
+            <li><a href="nieuws.php">Nieuws</a></li>
+            <li><a href="form.php">Formulier</a></li>
+            <li><a href="comment.php">Reacties</a></li>
             <li class="dropdown">
               <a href="#" class="dropdown-toggle" data-toggle="dropdown">Oracle <span class="caret"></span></a>
               <ul class="dropdown-menu">
-                <li><a href="wat.html">Wat is Oracle</a></li>
-                <li><a href="vader.html">Mijn vader</a></li>
-                <li><a href="geschiedenis.html">Geschiedenis</a></li>
+                <li><a href="wat.php">Wat is Oracle</a></li>
+                <li><a href="vader.php">Mijn vader</a></li>
+                <li><a href="geschiedenis.php">Geschiedenis</a></li>
               </ul>
             </li>
           </ul>
@@ -106,16 +106,16 @@
             <h5 class="font-weight-bold text-uppercase">Pagina's</h5>
             <ul class="list-unstyled text-uppercase">
               <li>
-                <p><a href="#">Home</a></p>
+                <p><a href="home.php">Home</a></p>
               </li>
               <li>
-                <p><a href="#">Nieuws</a></p>
+                <p><a href="nieuws.php">Nieuws</a></p>
               </li>
               <li>
-                <p><a href="#">Formulier</a></p>
+                <p><a href="form.php">Formulier</a></p>
               </li>
               <li>
-                <p><a href="#">Reacties</a></p>
+                <p><a href="comment.php">Reacties</a></p>
               </li>
             </ul>
           </div>
