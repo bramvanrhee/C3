@@ -140,7 +140,7 @@
         </div>
       </div>
 
-      <div class="footer-copyright text-center">© 2019 Copyright:
+      <div class="footer-copyright text-center">© <?php echo date("Y");?> Copyright:
         <a href="https://bramvanrhee.nl"> bramvanrhee.nl</a>
       </div>
     </footer>
