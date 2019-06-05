@@ -79,8 +79,8 @@
 
           <div class="col-md-4 col-lg-3 text-left">
             <h5 class="font-weight-bold text-uppercase">Algemene info</h5>
-              <p>Er wordt 1 onderwerp behandeld, genaamd Oracle. Ondergedeeld in:</p>
               <p>Uw bevind zich op een nieuwssite, met veel onderwerpen gerelateerd aan ICT.</p>
+              <p>Er wordt 1 onderwerp behandeld, genaamd Oracle. Ondergedeeld in:</p>
               <p><a href="wat.html">Wat is Oracle, </a><a href="vader.html">Mijn vader, </a>en <a href="geschiedenis.html">De geschiedenis</a></p>
           </div>
 
