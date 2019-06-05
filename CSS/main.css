@@ -17,16 +17,15 @@ footer {
   margin-top: 100px;
 }
 
-.row {
-  background-color: lavender
-}
-
 .col1 {
   background-color: black;
-  height: 100px;
+  color: white;
+  height: 210px;
+  border-top: 1px solid white;
 }
 
-.col2 {
+.img {
+  margin-top: 100px;
   background-color: white;
-  height: 100px;
+  height: 210px;
 }

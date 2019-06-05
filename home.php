@@ -79,14 +79,31 @@
 
 <!-- Latest News -->
     <div class="container">
+
       <div class="row">
-        <div class="col-md-6">
-          <div class="col1">Main</div>
+        <div class="col-md-4">
+          <div class="img"><img src="IMG/test1.jpg" class="img-responsive"></div>
         </div>
-        <div class="col-md-6">
-          <div class="col2">Main</div>
+        <div class="col-md-4">
+          <div class="img"><img src="IMG/test.jpg" class="img-responsive"></div>
+        </div>
+        <div class="col-md-4">
+          <div class="img"><img src="IMG/test1.jpg" class="img-responsive"></div>
         </div>
       </div>
+
+      <div class="row">
+        <div class="col-md-4">
+          <div class="col1">Main</div>
+        </div>
+        <div class="col-md-4">
+          <div class="col1">Main</div>
+        </div>
+        <div class="col-md-4">
+          <div class="col1">Main</div>
+        </div>
+      </div>
+
     </div>
 
 <!-- Categories -->
