@@ -23,7 +23,7 @@
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
           </button>
-            <a class="navbar-brand" href="home.html">Bram van Rhee</a>
+            <a class="navbar-brand" href="home.php">Bram van Rhee</a>
           </div>
           <div class="collapse navbar-collapse" id="navCollapse">
           <ul class="nav navbar-nav">
@@ -85,8 +85,7 @@
             <h5 class="font-weight-bold text-uppercase">Algemene info</h5>
               <p>Uw bevind zich op een nieuwssite, met veel onderwerpen gerelateerd aan ICT.</p>
               <p>Er wordt 1 onderwerp behandeld, genaamd Oracle. Ondergedeeld in:</p>
-              <p><a href="wat.html">Wat is Oracle, </a><a href="vader.html">Mijn vader, </a>en <a href="geschiedenis.html">De geschiedenis</a></p>
-          </div>
+              <p><a href="wat.php">Wat is Oracle, </a><a href="vader.php">Mijn vader, </a>en <a href="geschiedenis.php">De geschiedenis</a></p>
 
           <div class="hidden-mg hidden-lg">
             <hr>
