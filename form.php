@@ -134,7 +134,7 @@
 
           <div class="col-md-2 col-lg-2 text-center">
             <h5 class="font-weight-bold text-uppercase">Volg ons</h5>
-            <ul class="list-unstyled hidden-xs">
+            <ul class="list-unstyled hidden-xs hidden-sm">
               <li><a type="button" class="btn-floating btn-fb">
                 <i class="fab fa-facebook-square fa-2x"></i>
               </a></li>
@@ -149,7 +149,7 @@
               </a></li>
             </ul>
 
-            <ul class="list-unstyled list-inline visible-xs"
+            <ul class="list-unstyled list-inline visible-xs visible-sm"
               <li><a type="button" class="btn-floating btn-fb">
                 <i class="fab fa-facebook-square fa-2x"></i>
               </a></li>
