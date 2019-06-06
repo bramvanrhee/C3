@@ -45,7 +45,7 @@
     </nav>
 
 <!-- Form -->
-    <form action="form.html">
+    <form action="form.php">
       <div class="form-group">
         <label for="naam">Naam:</label>
         <input type="text" class="form-control" data-toggle="collapse" data-target="#name" id="naam">

@@ -44,6 +44,124 @@
       </div>
     </nav>
 
+    <h1 class="text-center">Reacties</h1>
+    <h2 class="text-center"><i><small>Laat uw reactie achter</small></i></h2>
+
+<!-- Form -->
+<div class="container">
+    <form action="comment.php">
+      <div class="row">
+        <div class="form-group">
+          <label for="naam">Naam:</label>
+          <input type="text" class="form-control">
+          <br>
+        </div>
+        <div class="form-group">
+          <label for="adres">Reactie:</label>
+          <input type="text" class="form-control" width="200px">
+        </div>
+
+        <button type="submit" class="btn btn-default">Submit</button>
+      </div>
+    </form>
+  </div>
+
+<!-- Media Objects -->
+    <div class="media">
+
+      <div class="media-left">
+        <img src="IMG/avatar.jpg" class="media-object" style="width: 60px;">
+      </div>
+      <div class="media-body">
+        <h4 class="media-heading">Bram van Rhee <small><i>Posted on June 5, 2019</i></small></h4>
+        <p class="comment">Lorem  ipsum...</p>
+
+      <div class="media">
+        <div class="media-left">
+          <img src="IMG/avatar1.png" class="media-object"style="width: 60px;">
+        </div>
+        <div class="media-body">
+          <h4 class="media-heading">PinguinLover <small><i>Posted on June 5, 2019</i></small></h4>
+          <p class="comment">Zeker waar</p>
+        </div>
+      </div>
+
+    </div>
+
+    <br><br>
+
+    <div class="media">
+
+      <div class="media-left">
+        <img src="IMG/avatar2.jpg" class="media-object" style="width: 60px;">
+      </div>
+      <div class="media-body">
+        <h4 class="media-heading">UltimateHacker <small><i>Posted on June 5, 2019</i></small></h4>
+        <p class="comment">Lorem  ipsum...</p>
+      </div>
+
+    </div>
+
+    <br><br>
+
+    <div class="media">
+
+      <div class="media-left">
+        <img src="IMG/avatar1.png" class="media-object" style="width: 60px;">
+      </div>
+      <div class="media-body">
+        <h4 class="media-heading">PinguinLover <small><i>Posted on June 5, 2019</i></small></h4>
+        <p class="comment">Lorem  ipsum...</p>
+
+      <div class="media">
+        <div class="media-left">
+          <img src="IMG/avatar.jpg" class="media-object"style="width: 60px;">
+        </div>
+        <div class="media-body">
+          <h4 class="media-heading">Bram van Rhee <small><i>Posted on June 5, 2019</i></small></h4>
+          <p class="comment">Zeker waar</p>
+        </div>
+      </div>
+
+    </div>
+
+    <br><br>
+
+    <div class="media">
+
+      <div class="media-left">
+        <img src="IMG/avatar3.png" class="media-object" style="width: 60px;">
+      </div>
+      <div class="media-body">
+        <h4 class="media-heading">BlackerThanBlack <small><i>Posted on June 5, 2019</i></small></h4>
+        <p class="comment">Lorem  ipsum...</p>
+
+      <div class="media">
+        <div class="media-left">
+          <img src="IMG/avatar5.jpg" class="media-object"style="width: 60px;">
+        </div>
+        <div class="media-body">
+          <h4 class="media-heading">TonyStarkOfficial  <small><i>Posted on June 5, 2019</i></small></h4>
+          <p class="comment">Zeker waar</p>
+        </div>
+      </div>
+
+    </div>
+
+    <br><br>
+
+    <div class="media">
+
+      <div class="media-left">
+        <img src="IMG/avatar4.png" class="media-object" style="width: 60px;">
+      </div>
+      <div class="media-body">
+        <h4 class="media-heading">SouthPark2000 <small><i>Posted on June 5, 2019</i></small></h4>
+        <p class="comment">Lorem  ipsum...</p>
+      </div>
+
+    </div>
+
 <!-- Footer -->
     <footer class="page-footer font-small">
       <div class="container text-md-left">
