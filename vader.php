@@ -86,6 +86,7 @@
               <p>Uw bevind zich op een nieuwssite, met veel onderwerpen gerelateerd aan ICT.</p>
               <p>Er wordt 1 onderwerp behandeld, genaamd Oracle. Ondergedeeld in:</p>
               <p><a href="wat.php">Wat is Oracle, </a><a href="vader.php">Mijn vader, </a>en <a href="geschiedenis.php">De geschiedenis</a></p>
+          </div>
 
           <div class="hidden-mg hidden-lg">
             <hr>
