@@ -53,37 +53,44 @@
     </nav>
 
 <!-- Slideshow -->
-    <div id="myCarousel" class="carousel slide" data-ride="carousel">
+<div class="container">
+<div id="myCarousel" class="carousel slide" data-ride="carousel">
 
-      <ol class="carousel-indicators">
-        <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
-        <li data-target="#myCarousel" data-slide-to="1"></li>
-        <li data-target="#myCarousel" data-slide-to="2"></li>
-      </ol>
+<ol class="carousel-indicators">
+  <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
+  <li data-target="#myCarousel" data-slide-to="1"></li>
+  <li data-target="#myCarousel" data-slide-to="2"></li>
+  <li data-target="#myCarousel" data-slide-to="3"></li>
+</ol>
 
-      <div class="carousel-inner">
-        <div class="item active">
-          <img class="center-block" src="../IMG/test.jpg" style="width: 50%; height: 300px;">
-        </div>
+<div class="carousel-inner">
+  <div class="item active">
+    <a href="../NieuwsHTML/ict.php"><img src="../IMG/ict.jpg" style="width:100%;"></a>
+  </div>
 
-        <div class="item">
-          <img class="center-block" src="../IMG/test1.jpg" style="width: 50%; height: 300px;">
-        </div>
+  <div class="item">
+  <a href="../NieuwsHTML/politiek.php"><img src="../IMG/politiek.jpg" style="width:100%;"></a>
+  </div>
 
-        <div class="item">
-          <img class="center-block" src="../IMG/oracle1.png" style="width: 50%; height: 300px;">
-        </div>
-      </div>
+  <div class="item">
+    <a href="../NieuwsHTML/sport.php"><img src="../IMG/sport.png" style="width:100%;"></a>
+  </div>
 
-      <a class="left carousel-control" href="#myCarousel" data-slide="prev">
-        <span class="glyphicon glyphicon-chevron-left"></span>
-        <span class="sr-only">Previous</span>
-      </a>
-      <a class="right carousel-control" href="#myCarousel" data-slide="next">
-        <span class="glyphicon glyphicon-chevron-right"></span>
-        <span class="sr-only">Next</span>
-      </a>
-    </div>
+  <div class="item">
+    <a href="../OnderwerpHTML/wat.php"><img src="../IMG/oracle.png" style="width:100%;"></a>
+  </div>
+</div>
+
+<a class="left carousel-control" href="#myCarousel" data-slide="prev">
+  <span class="glyphicon glyphicon-chevron-left"></span>
+  <span class="sr-only">Previous</span>
+</a>
+<a class="right carousel-control" href="#myCarousel" data-slide="next">
+  <span class="glyphicon glyphicon-chevron-right"></span>
+  <span class="sr-only">Next</span>
+</a>
+</div>
+</div>
 
 <!-- Latest News -->
     <div class="container">
