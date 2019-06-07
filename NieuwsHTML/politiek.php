@@ -52,13 +52,61 @@
       </div>
     </nav>
 
-    <div class="container-fluids" style="padding: 0px;">
-      <div class="row" style="padding:0px;">
+    <div class="container-fluid">
+      <div class="row">
         <div class="col-md-6 col-xs-6" style="padding: 0px;">
-          <img src="../IMG/test1.jpg" class="img-responsive">
+          <img src="../IMG/2kamer.jpg" class="img-responsive">
         </div>
         <div class="col-md-6 col-xs-6" style="padding: 0px;">
-          <img src="../IMG/test1.jpg" class="img-responsive">
+          <img src="../IMG/politiek1.jpg" class="img-responsive">
+        </div>
+      </div>
+    </div>
+
+    <div class="container">
+      <div class="row border top">
+        <div class="col-md-8">
+          <h2>Samsung releast foldable phone</h2>
+          <h4><small><i>Samsung</i></small></h4>
+        </div>
+        <div class="col-md-4">
+          <img src="../IMG/ict1.jpg" class="img-responsive">
+        </div>
+      </div>
+      <div class="row border top">
+        <div class="col-md-8">
+          <h2>Philips komt met nieuwe lampen</h2>
+          <h4><small><i>Philips</i></small></h4>
+        </div>
+        <div class="col-md-4">
+          <img src="../IMG/ict2.jpg" class="img-responsive">
+        </div>
+      </div>
+      <div class="row border top">
+        <div class="col-md-8">
+          <h2>Philips komt met nieuwe lampen</h2>
+          <h4><small><i>Philips</i></small></h4>
+        </div>
+        <div class="col-md-4">
+          <img src="../IMG/ict2.jpg" class="img-responsive">
+        </div>
+      </div>
+      <div class="row border top">
+        <div class="col-md-8">
+          <h2>Philips komt met nieuwe lampen</h2>
+          <h4><small><i>Philips</i></small></h4>
+        </div>
+        <div class="col-md-4">
+          <img src="../IMG/ict2.jpg" class="img-responsive">
+        </div>
+      </div>
+      <div class="row border top">
+        <div class="col-md-8">
+          <h2>Philips komt met nieuwe lampen</h2>
+          <h4><small><i>Philips</i></small></h4>
+        </div>
+        <div class="col-md-4">
+          <img src="../IMG/ict2.jpg" class="img-responsive">
         </div>
       </div>
     </div>

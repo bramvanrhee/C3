@@ -53,12 +53,12 @@
     </nav>
 
     <div class="container-fluid">
-      <div class="row" style="padding:0px;">
+      <div class="row">
         <div class="col-md-6 col-xs-6" style="padding: 0px;">
-          <img src="../IMG/ict1.jpg" class="img-responsive">
+          <img src="../IMG/server.jpg" class="img-responsive">
         </div>
         <div class="col-md-6 col-xs-6" style="padding: 0px;">
-          <img src="../IMG/ict2.jpg" class="img-responsive">
+          <img src="../IMG/programmeren.jpg" class="img-responsive">
         </div>
       </div>
     </div>
@@ -71,6 +71,33 @@
         </div>
         <div class="col-md-4">
           <img src="../IMG/ict1.jpg" class="img-responsive">
+        </div>
+      </div>
+      <div class="row border top">
+        <div class="col-md-8">
+          <h2>Philips komt met nieuwe lampen</h2>
+          <h4><small><i>Philips</i></small></h4>
+        </div>
+        <div class="col-md-4">
+          <img src="../IMG/ict2.jpg" class="img-responsive">
+        </div>
+      </div>
+      <div class="row border top">
+        <div class="col-md-8">
+          <h2>Philips komt met nieuwe lampen</h2>
+          <h4><small><i>Philips</i></small></h4>
+        </div>
+        <div class="col-md-4">
+          <img src="../IMG/ict2.jpg" class="img-responsive">
+        </div>
+      </div>
+      <div class="row border top">
+        <div class="col-md-8">
+          <h2>Philips komt met nieuwe lampen</h2>
+          <h4><small><i>Philips</i></small></h4>
+        </div>
+        <div class="col-md-4">
+          <img src="../IMG/ict2.jpg" class="img-responsive">
         </div>
       </div>
       <div class="row border top">
