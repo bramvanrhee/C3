@@ -9,13 +9,15 @@
 
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.3/css/all.css" integrity="sha384-UHRtZLI+pbxtHCWp1t77Bi1L4ZtiqrqD80Kn4Z8NTSRyMA2Fd33n5dQ8lWUE00s/" crossorigin="anonymous">
-    <link rel="stylesheet" href="CSS/main.css">
+    <link rel="stylesheet" href="../CSS/main.css">
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.0/jquery.min.js"></script>
   </head>
   <body>
 
+    <div class="top"></div>
+
 <!-- Navbar -->
-    <nav class="navbar navbar-inverse">
+    <nav class="navbar navbar-inverse navbar-fixed-top">
       <div class="container-fluid">
         <div class="navbar-header">
           <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navCollapse">
@@ -28,53 +30,55 @@
           <div class="collapse navbar-collapse" id="navCollapse">
           <ul class="nav navbar-nav">
             <li><a href="home.php">Home</a></li>
-            <li><a href="nieuws.php">Nieuws</a></li>
-            <li><a href="form.php">Formulier</a></li>
+            <li class="dropdown">
+              <a href="#" class="dropdown-toggle" data-toggle="dropdown">Nieuws <span class="caret"></span></a>
+              <ul class="dropdown-menu">
+                <li><a href="../NieuwsHTML/ict.php">ICT</a></li>
+                <li><a href="../NieuwsHTML/politiek.php">Politiek</a></li>
+                <li><a href="../NieuwsHTML/sport.php">Sport</a></li>
+              </ul>
+            <li class="active"><a href="form.php">Formulier</a></li>
             <li><a href="comment.php">Reacties</a></li>
             <li class="dropdown">
               <a href="#" class="dropdown-toggle" data-toggle="dropdown">Oracle <span class="caret"></span></a>
               <ul class="dropdown-menu">
-                <li><a href="wat.php">Wat is Oracle</a></li>
-                <li><a href="vader.php">Mijn vader</a></li>
-                <li class="active"><a href="geschiedenis.php">Geschiedenis</a></li>
+                <li><a href="../OnderwerpHTML/wat.php">Wat is Oracle</a></li>
+                <li><a href="../OnderwerpHTML/vader.php">Mijn vader</a></li>
+                <li><a href="../OnderwerpHTML/geschiedenis.php">Geschiedenis</a></li>
               </ul>
             </li>
+          </ul>
         </div>
       </div>
     </nav>
 
-<!-- Slideshow -->
-    <div id="myCarousel" class="carousel slide" data-ride="carousel">
-
-      <ol class="carousel-indicators">
-        <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
-        <li data-target="#myCarousel" data-slide-to="1"></li>
-        <li data-target="#myCarousel" data-slide-to="2"></li>
-      </ol>
-
-      <div class="carousel-inner">
-        <div class="item active">
-          <img class="center-block" src="IMG/test.jpg" style="width: 50%; height: 300px;">
-        </div>
-
-        <div class="item">
-          <img class="center-block" src="IMG/test1.jpg" style="width: 50%; height: 300px;">
-        </div>
-
-        <div class="item">
-          <img class="center-block" src="IMG/test.jpg" style="width: 50%; height: 300px;">
-        </div>
+<!-- Form -->
+    <form action="form.php">
+      <div class="form-group">
+        <label for="naam">Naam:</label>
+        <input type="text" class="form-control" data-toggle="collapse" data-target="#name" id="naam">
+        <div id="name" class="collapse">Vul uw naam in</div>
       </div>
+      <div class="form-group">
+        <label for="adres">Adres:</label>
+        <input type="text" class="form-control" data-toggle="collapse" data-target="#adress" id="adres">
+        <div id="adress" class="collapse">Vul uw adres in</div>
+      </div>
+      <div class="checkbox">
+        <label><input type="checkbox"> Remember me</label>
+      </div>
+      <button type="submit" class="btn btn-default">Submit</button>
+    </form>
 
-      <a class="left carousel-control" href="#myCarousel" data-slide="prev">
-        <span class="glyphicon glyphicon-chevron-left"></span>
-        <span class="sr-only">Previous</span>
-      </a>
-      <a class="right carousel-control" href="#myCarousel" data-slide="next">
-        <span class="glyphicon glyphicon-chevron-right"></span>
-        <span class="sr-only">Next</span>
-      </a>
-    </div>
+    <script>
+      $('form-control').hover(
+        function() {
+          $('.collapse').collapse('show');
+        }, function() {
+          $('.collapse').collapse('hide');
+        }
+      );
+    </script>
 
 <!-- Footer -->
     <footer class="page-footer font-small">

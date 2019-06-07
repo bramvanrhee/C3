@@ -9,13 +9,15 @@
 
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.3/css/all.css" integrity="sha384-UHRtZLI+pbxtHCWp1t77Bi1L4ZtiqrqD80Kn4Z8NTSRyMA2Fd33n5dQ8lWUE00s/" crossorigin="anonymous">
-    <link rel="stylesheet" href="CSS/main.css">
+    <link rel="stylesheet" href="../CSS/main.css">
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.0/jquery.min.js"></script>
   </head>
   <body>
 
+    <div class="top"></div>
+
 <!-- Navbar -->
-    <nav class="navbar navbar-inverse">
+    <nav class="navbar navbar-inverse navbar-fixed-top">
       <div class="container-fluid">
         <div class="navbar-header">
           <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navCollapse">
@@ -23,143 +25,46 @@
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
           </button>
-            <a class="navbar-brand" href="home.php">Bram van Rhee</a>
+            <a class="navbar-brand" href="../HTML/home.php">Bram van Rhee</a>
           </div>
           <div class="collapse navbar-collapse" id="navCollapse">
           <ul class="nav navbar-nav">
-            <li><a href="home.php">Home</a></li>
-            <li><a href="nieuws.php">Nieuws</a></li>
-            <li><a href="form.php">Formulier</a></li>
-            <li class="active"><a href="comment.php">Reacties</a></li>
+            <li><a href="../HTML/home.php">Home</a></li>
             <li class="dropdown">
+              <a href="#" class="dropdown-toggle" data-toggle="dropdown">Nieuws <span class="caret"></span></a>
+              <ul class="dropdown-menu">
+                <li><a href="../NieuwsHTML/ict.php">ICT</a></li>
+                <li><a href="../NieuwsHTML/politiek.php">Politiek</a></li>
+                <li><a href="../NieuwsHTML/sport.php">Sport</a></li>
+              </ul>
+            <li><a href="../HTML/form.php">Formulier</a></li>
+            <li><a href="../HTML/comment.php">Reacties</a></li>
+            <li class="dropdown active">
               <a href="#" class="dropdown-toggle" data-toggle="dropdown">Oracle <span class="caret"></span></a>
               <ul class="dropdown-menu">
-                <li><a href="wat.php">Wat is Oracle</a></li>
+                <li class="active"><a href="wat.php">Wat is Oracle</a></li>
                 <li><a href="vader.php">Mijn vader</a></li>
                 <li><a href="geschiedenis.php">Geschiedenis</a></li>
               </ul>
             </li>
-          </ul>
         </div>
       </div>
     </nav>
 
-    <h1 class="text-center">Reacties</h1>
-    <h2 class="text-center"><i><small>Laat uw reactie achter</small></i></h2>
-
-<!-- Form -->
-<div class="container">
-    <form action="comment.php">
+    <div class="container">
       <div class="row">
-        <div class="form-group">
-          <label for="naam">Naam:</label>
-          <input type="text" class="form-control">
-          <br>
-        </div>
-        <div class="form-group">
-          <label for="adres">Reactie:</label>
-          <input type="text" class="form-control" width="200px">
-        </div>
-
-        <button type="submit" class="btn btn-default">Submit</button>
-      </div>
-    </form>
-  </div>
-
-<!-- Media Objects -->
-    <div class="media">
-
-      <div class="media-left">
-        <img src="IMG/avatar.jpg" class="media-object" style="width: 60px;">
-      </div>
-      <div class="media-body">
-        <h4 class="media-heading">Bram van Rhee <small><i>Posted on June 5, 2019</i></small></h4>
-        <p class="comment">Lorem  ipsum...</p>
-
-      <div class="media">
-        <div class="media-left">
-          <img src="IMG/avatar1.png" class="media-object"style="width: 60px;">
-        </div>
-        <div class="media-body">
-          <h4 class="media-heading">PinguinLover <small><i>Posted on June 5, 2019</i></small></h4>
-          <p class="comment">Zeker waar</p>
+        <div class="col-md-8 center col-md-push-2 text-center">
+          <a href="https://oracle.com"><img src="../IMG/oracle.png" class="img-responsive"></a>
         </div>
       </div>
-
-    </div>
-
-    <br><br>
-
-    <div class="media">
-
-      <div class="media-left">
-        <img src="IMG/avatar2.jpg" class="media-object" style="width: 60px;">
-      </div>
-      <div class="media-body">
-        <h4 class="media-heading">UltimateHacker <small><i>Posted on June 5, 2019</i></small></h4>
-        <p class="comment">Lorem  ipsum...</p>
-      </div>
-
-    </div>
-
-    <br><br>
-
-    <div class="media">
-
-      <div class="media-left">
-        <img src="IMG/avatar1.png" class="media-object" style="width: 60px;">
-      </div>
-      <div class="media-body">
-        <h4 class="media-heading">PinguinLover <small><i>Posted on June 5, 2019</i></small></h4>
-        <p class="comment">Lorem  ipsum...</p>
-
-      <div class="media">
-        <div class="media-left">
-          <img src="IMG/avatar.jpg" class="media-object"style="width: 60px;">
+      <div class="row">
+        <div class="col-md-6">
+          test
         </div>
-        <div class="media-body">
-          <h4 class="media-heading">Bram van Rhee <small><i>Posted on June 5, 2019</i></small></h4>
-          <p class="comment">Zeker waar</p>
+        <div class="col-md-6">
+          test
         </div>
       </div>
-
-    </div>
-
-    <br><br>
-
-    <div class="media">
-
-      <div class="media-left">
-        <img src="IMG/avatar3.png" class="media-object" style="width: 60px;">
-      </div>
-      <div class="media-body">
-        <h4 class="media-heading">BlackerThanBlack <small><i>Posted on June 5, 2019</i></small></h4>
-        <p class="comment">Lorem  ipsum...</p>
-
-      <div class="media">
-        <div class="media-left">
-          <img src="IMG/avatar5.jpg" class="media-object"style="width: 60px;">
-        </div>
-        <div class="media-body">
-          <h4 class="media-heading">TonyStarkOfficial  <small><i>Posted on June 5, 2019</i></small></h4>
-          <p class="comment">Zeker waar</p>
-        </div>
-      </div>
-
-    </div>
-
-    <br><br>
-
-    <div class="media">
-
-      <div class="media-left">
-        <img src="IMG/avatar4.png" class="media-object" style="width: 60px;">
-      </div>
-      <div class="media-body">
-        <h4 class="media-heading">SouthPark2000 <small><i>Posted on June 5, 2019</i></small></h4>
-        <p class="comment">Lorem  ipsum...</p>
-      </div>
-
     </div>
 
 <!-- Footer -->
@@ -262,8 +167,6 @@
         <a href="https://bramvanrhee.nl"> bramvanrhee.nl</a>
       </div>
     </footer>
-
-
 
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
   </body>

@@ -44,3 +44,15 @@ footer {
   border-radius: 4px;
   margin-right: 20px;
 }
+
+.top {
+  margin-top: 75px;
+}
+
+.container-fluid {
+  padding: 0px;
+}
+
+.border {
+  border: 1px solid black;
+}
