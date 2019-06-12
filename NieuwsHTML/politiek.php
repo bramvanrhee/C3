@@ -64,49 +64,49 @@
     </div>
 
     <div class="container">
-      <div class="row border top">
+      <a href="../Nieuws/Politiek/klimaat.php"><div class="row border top">
         <div class="col-md-8">
-          <h2>Samsung releast foldable phone</h2>
-          <h4><small><i>Samsung</i></small></h4>
+          <h2>Klimaat</h2>
+          <h4><small><i>Demonstratie</i></small></h4>
         </div>
         <div class="col-md-4">
-          <img src="../IMG/ict1.jpg" class="img-responsive">
+          <img src="../IMG/klimaat.jpg" class="img-responsive">
         </div>
       </div>
-      <div class="row border top">
+      <a href="../Nieuws/Politiek/wilders.php"><div class="row border top">
         <div class="col-md-8">
-          <h2>Philips komt met nieuwe lampen</h2>
+          <h2>Wilders</h2>
           <h4><small><i>Philips</i></small></h4>
         </div>
         <div class="col-md-4">
-          <img src="../IMG/ict2.jpg" class="img-responsive">
+          <img src="../IMG/wilders1.jpg" class="img-responsive">
         </div>
       </div>
-      <div class="row border top">
+      <a href="../Nieuws/Politiek/sp.php"><div class="row border top">
         <div class="col-md-8">
-          <h2>Philips komt met nieuwe lampen</h2>
+          <h2>SP</h2>
           <h4><small><i>Philips</i></small></h4>
         </div>
         <div class="col-md-4">
-          <img src="../IMG/ict2.jpg" class="img-responsive">
+          <img src="../IMG/sp.jpg" class="img-responsive">
         </div>
       </div>
-      <div class="row border top">
+      <a href="../Nieuws/Politiek/pedohandboek.php"><div class="row border top">
         <div class="col-md-8">
-          <h2>Philips komt met nieuwe lampen</h2>
+          <h2>Pedohandboek moet verboden worden</h2>
           <h4><small><i>Philips</i></small></h4>
         </div>
         <div class="col-md-4">
-          <img src="../IMG/ict2.jpg" class="img-responsive">
+          <img src="../IMG/marcel.jpg" class="img-responsive">
         </div>
       </div>
-      <div class="row border top">
+      <a href="../Nieuws/Politiek/ivanka.php"><div class="row border top">
         <div class="col-md-8">
-          <h2>Philips komt met nieuwe lampen</h2>
+          <h2>Au! Ivanka Trump laat minister Kaag letterlijk ‘speechless’</h2>
           <h4><small><i>Philips</i></small></h4>
         </div>
         <div class="col-md-4">
-          <img src="../IMG/ict2.jpg" class="img-responsive">
+          <img src="../IMG/ivanka1.jpg" class="img-responsive">
         </div>
       </div>
     </div>

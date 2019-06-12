@@ -54,33 +54,27 @@
 
     <div class="container">
       <div class="row">
-        <div class="col-md-8 col-md-push-2 col3">
-          <h1>Foldable Phone</h1>
+        <div class="col-md-8 col-md-push-2">
+          <h1>Pedohandboek moet verboden worden</h1>
           <h4 class="space2"><small><i>11 juni 2019</i></small></h4>
 
-          <h4 class="space"><b>De Samsung Galaxy Fold is de eerste telefoon met een opvouwbaar scherm die in Nederland op de markt komt. Bright probeerde de Galaxy Fold al.</b></h4>
+          <h4 class="space"><b>De Stichting Strijd tegen Misbruik eist dat een handboek voor kindermisbruik wordt verboden en dreigt naar de rechter te stappen. Op internet is het boekwerk te vinden, met daarin aanwijzingen om kinderen ongezien te misbruiken.</b></h4>
 
-          <h4 class="space">Vanaf 3 mei is de Samsung Galaxy Fold in Nederland verkrijgbaar. Aan de buitenkant heeft de telefoon een 4,6 inch scherm, opengevouwen heeft de Galaxy Fold een 7,3 inch scherm. De prijs van de opvouwbare telefoon is even slikken: 2020 euro.</h4>
+          <h4 class="space">Eerder zei minister Grapperhaus van Justitie dat juristen op zijn departement hebben gekeken naar het handboek, maar daarin geen strafbaar materiaal zien. De Stichting Strijd tegen Misbruik legt zich daar niet bij neer en stapt als het moet naar de rechter om een verbod af te dwingen. Eerder deed de stichting  al aangifte tegen pedofielenvereniging Martijn, die na een jarenlange juridische strijd van de stichting en rechtskundige Yme Drost werd verboden.</h4>
 
-          <h4>Bright-hoofdredacteur Erwin van der Zande heeft de Galaxy Fold al kunnen proberen. Bekijk zijn eerste indruk.</h4>
+          <h3><b>Overeenkomsten</b></h3>
 
-          <video src="../../MP4/EersteIndruk.mp4" class="img-responsive space" controls></video>
+          <h4 class="space">Nu zien zij grote overeenkomsten tussen de informatie die binnen Martijn werd verdeeld en het handboek. Daarin wordt gedetailleerd beschreven wanneer wat voor seksuele handelingen kunnen worden verricht. Ook worden tips gegeven hoe kinderen kunnen worden benaderd en misbruik onopgemerkt kan blijven. Hoewel er tot nu toe over werd gesproken dat het handboek beschikbaar is op het darkweb, het verborgen deel van het internet, trof deze krant delen ervan ook op het reguliere internet aan, waar het eenvoudig is te vinden.</h4>
 
-          <h3><b>Specs</b></h3>
+          <h4 class="space">Drost noemt dat schandalig en vindt het ongelooflijk dat hij stuit op politieke onwil. ,,Als ouders in Nederland de inhoud van dit boek zouden kennen – overigens moeten ze het vooral niet lezen  – zou het land op zijn kop staan.’’</h4>
 
-          <h4 class="space">De Galaxy Fold heeft een Snapdragon 855-chip, 12 GB werkgeheugen, 512 GB opslag en een 4360 mAh-accu. Het toestel heeft dezelfde camera's als in de high-end Galaxy S10+, met drie camera's aan de achterkant, twee aan de binnenkant en nog een extra frontcamera aan de voorkant. De vingerafdruksensor zit aan de zijkant van het toestel, net als bij de Galaxy S10E.</4>
+          <h3><b>Verdrag</b></h3>
 
-          <h3><b>Huawei en andere concurrenten</b></h3>
+          <h4 class="space">Ook in de strijd tegen Martijn werd in de politiek eerst weinig noodzaak gevoeld actie te ondernemen en zouden er te weinig mogelijkheden zijn voor een verbod. Drost benadrukt dat hij toen niet opgaf en ook nu vastbesloten is door te zetten. In Engeland is het boek al verboden. Drost zegt een beroep te kunnen doen op het verdrag van Lanzarote, waarin landen hebben afgesproken kinderen te beschermen tegen seksuele uitbuiting en seksueel misbruik.</h4>
 
-          <h4 class="space">De enige concurrent voor de Galaxy Fold die al officieel is aangekondigd is de Huawei Mate X, die anders opvouwt dan het Samsung-toestel. Het vouwbare scherm zit bij de Mate X aan de buitenkant. De opvouwbare Huawei-telefoon is nog duurder: 2299 euro.</h4>
+          <h4 class="space">De stichting heeft de Tweede Kamer al aangeschreven om de beschikbaarheid van het handboek aan de kaak te stellen. Oprichter van de stichting Marcel Jeninga is van plan aangifte te doen, als er op een andere manier geen zaak kan worden gemaakt van de beschikbaarheid van het handboek.</h4>
 
-          <h4>Het Chinese merk Royole was eind 2018 de eerste fabrikant die een opvouwbare telefoon op de markt bracht, maar dat toestel is nog alleen in China verkrijgbaar.</h4>
-
-          <h4>Ook andere bekende fabrikanten, zoals Xiaomi, Oppo en Motorola, werken aan smartphones met vouwbare schermen.</h4>
-
-          <h2><b>Eerder: opvouwbare telefoons komen eraan</b></h2>
-
-          <video src="../../MP4/FoldablePhones.mp4" class="img-responsive" controls></video>
+          <img src="../../IMG/YmeDrost.jpg" class="img-responsive">
         </div>
       </div>
     </div>

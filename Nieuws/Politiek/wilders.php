@@ -54,33 +54,21 @@
 
     <div class="container">
       <div class="row">
-        <div class="col-md-8 col-md-push-2 col3">
-          <h1>Foldable Phone</h1>
+        <div class="col-md-8 col-md-push-2">
+          <h1>Kamer onderzoekt Wilders-proces voorlopig niet</h1>
           <h4 class="space2"><small><i>11 juni 2019</i></small></h4>
 
-          <h4 class="space"><b>De Samsung Galaxy Fold is de eerste telefoon met een opvouwbaar scherm die in Nederland op de markt komt. Bright probeerde de Galaxy Fold al.</b></h4>
+          <h4 class="space"><b>Er komt voorlopig geen parlementaire enquête naar mogelijke bemoeienis van het ministerie van Justitie en Veiligheid met de rechtszaak tegen Geert Wilders. De meesten van Wilders' collega's in de Tweede Kamer steunen zo'n diepgaand onderzoek niet.</b></h4>
 
-          <h4 class="space">Vanaf 3 mei is de Samsung Galaxy Fold in Nederland verkrijgbaar. Aan de buitenkant heeft de telefoon een 4,6 inch scherm, opengevouwen heeft de Galaxy Fold een 7,3 inch scherm. De prijs van de opvouwbare telefoon is even slikken: 2020 euro.</h4>
+          <h4 class="space">Wilders denkt dat toenmalig minister Ivo Opstelten het Openbaar Ministerie heeft gemaand de PVV-leider te vervolgen voor zijn uitlatingen over ‘Minder Marokkanen’. Hij schermt met een nieuwe verklaring van een ambtenaar, die zou beweren dat zelf van Opstelten te hebben gehoord.</h4>
 
-          <h4>Bright-hoofdredacteur Erwin van der Zande heeft de Galaxy Fold al kunnen proberen. Bekijk zijn eerste indruk.</h4>
+          <h4 class="space">Daardoor is de rechtszaak ‘een politiek proces’ en een ‘afrekening met een politiek leider van de oppositie’ gebleken, vindt Wilders. Het proces moet dan ook meteen worden gestaakt en de Kamer moet een enquête instellen.</h4>
 
-          <video src="../../MP4/EersteIndruk.mp4" class="img-responsive space" controls></video>
+          <h4 class="space">Maar daarvoor vinden onder andere VVD, CDA, GroenLinks, SP, ChristenUnie en 50Plus het te vroeg. Zij willen eerst de rechter laten spreken. Forum voor Democratie steunt de oproep van Wilders ‘uiteraard’ wel.</h4>
 
-          <h3><b>Specs</b></h3>
+          <h4 class="space">De Kamer kan bij een enquête betrokkenen verplichten onder ede hun verhaal te komen doen.</h4>
 
-          <h4 class="space">De Galaxy Fold heeft een Snapdragon 855-chip, 12 GB werkgeheugen, 512 GB opslag en een 4360 mAh-accu. Het toestel heeft dezelfde camera's als in de high-end Galaxy S10+, met drie camera's aan de achterkant, twee aan de binnenkant en nog een extra frontcamera aan de voorkant. De vingerafdruksensor zit aan de zijkant van het toestel, net als bij de Galaxy S10E.</4>
-
-          <h3><b>Huawei en andere concurrenten</b></h3>
-
-          <h4 class="space">De enige concurrent voor de Galaxy Fold die al officieel is aangekondigd is de Huawei Mate X, die anders opvouwt dan het Samsung-toestel. Het vouwbare scherm zit bij de Mate X aan de buitenkant. De opvouwbare Huawei-telefoon is nog duurder: 2299 euro.</h4>
-
-          <h4>Het Chinese merk Royole was eind 2018 de eerste fabrikant die een opvouwbare telefoon op de markt bracht, maar dat toestel is nog alleen in China verkrijgbaar.</h4>
-
-          <h4>Ook andere bekende fabrikanten, zoals Xiaomi, Oppo en Motorola, werken aan smartphones met vouwbare schermen.</h4>
-
-          <h2><b>Eerder: opvouwbare telefoons komen eraan</b></h2>
-
-          <video src="../../MP4/FoldablePhones.mp4" class="img-responsive" controls></video>
+          <img src="../../IMG/wilders.jpg" class="img-responsive">
         </div>
       </div>
     </div>

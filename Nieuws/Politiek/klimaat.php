@@ -54,33 +54,23 @@
 
     <div class="container">
       <div class="row">
-        <div class="col-md-8 col-md-push-2 col3">
-          <h1>Foldable Phone</h1>
+        <div class="col-md-8 col-md-push-2">
+          <h1>Klimaatdemonstranten verstoren vergadering Tweede Kamer</h1>
           <h4 class="space2"><small><i>11 juni 2019</i></small></h4>
 
-          <h4 class="space"><b>De Samsung Galaxy Fold is de eerste telefoon met een opvouwbaar scherm die in Nederland op de markt komt. Bright probeerde de Galaxy Fold al.</b></h4>
+          <h4 class="space"><b>Een tiental klimaatdemonstranten heeft vanmiddag de vergadering van de Tweede Kamer verstoord met een protest. De demonstranten riepen protestleuzen en hadden spandoeken met onder meer ‘De Tijd Dringt’ erop. Die hadden ze binnengesmokkeld door ze als rokjes te dragen. Ook riepen ze leuzen, samen met enkele andere activisten. Een aantal van hen is aangehouden.</b></h4>
 
-          <h4 class="space">Vanaf 3 mei is de Samsung Galaxy Fold in Nederland verkrijgbaar. Aan de buitenkant heeft de telefoon een 4,6 inch scherm, opengevouwen heeft de Galaxy Fold een 7,3 inch scherm. De prijs van de opvouwbare telefoon is even slikken: 2020 euro.</h4>
+          <h4 class="space">De demonstranten van de groep Extinction Rebellion braken in tijdens de wekelijkse stemmingen in de plenaire zaal van de Tweede Kamer. Terwijl vrijwel de gehele Kamer aanwezig was, begon de groep plots te schreeuwen. De demonstranten werden door agenten en andere toegesnelde bewakers verwijderd van de publieke tribune. Tegenstribbelende betogers werden over de grond naar buiten gesleept. Daar zongen ze gewoon door: ,,I hear the voice of my great granddaughter, saying climate justice now’’, was een van de teksten.</h4>
 
-          <h4>Bright-hoofdredacteur Erwin van der Zande heeft de Galaxy Fold al kunnen proberen. Bekijk zijn eerste indruk.</h4>
+          <h4 class="space">De politie heeft twaalf mensen opgepakt die zich op de publieke tribune misdroegen. Ze zijn aangehouden vanwege het verstoren van een openbare vergadering. Volgens een woordvoerder van de organisatie zijn dertien actievoerders opgepakt.</h4>
 
-          <video src="../../MP4/EersteIndruk.mp4" class="img-responsive space" controls></video>
+          <h3><b>Biodiversiteit</b></h3>
 
-          <h3><b>Specs</b></h3>
+          <h4 class="space">De actievoerders protesteerden tegen een besluit van de Kamer. Een meerderheid wilde geen noodtoestand uitroepen voor het klimaat en de biodiversiteit. Oproepen daartoe van de Partij voor de Dieren werden verworpen.</h4>
 
-          <h4 class="space">De Galaxy Fold heeft een Snapdragon 855-chip, 12 GB werkgeheugen, 512 GB opslag en een 4360 mAh-accu. Het toestel heeft dezelfde camera's als in de high-end Galaxy S10+, met drie camera's aan de achterkant, twee aan de binnenkant en nog een extra frontcamera aan de voorkant. De vingerafdruksensor zit aan de zijkant van het toestel, net als bij de Galaxy S10E.</4>
+          <h4 class="space">De activisten protesteerden ook buiten de Kamer. Extinction Rebellion is een van oorsprong Britse beweging, die een forsere aanpak van de klimaatverandering eist.</h4>
 
-          <h3><b>Huawei en andere concurrenten</b></h3>
-
-          <h4 class="space">De enige concurrent voor de Galaxy Fold die al officieel is aangekondigd is de Huawei Mate X, die anders opvouwt dan het Samsung-toestel. Het vouwbare scherm zit bij de Mate X aan de buitenkant. De opvouwbare Huawei-telefoon is nog duurder: 2299 euro.</h4>
-
-          <h4>Het Chinese merk Royole was eind 2018 de eerste fabrikant die een opvouwbare telefoon op de markt bracht, maar dat toestel is nog alleen in China verkrijgbaar.</h4>
-
-          <h4>Ook andere bekende fabrikanten, zoals Xiaomi, Oppo en Motorola, werken aan smartphones met vouwbare schermen.</h4>
-
-          <h2><b>Eerder: opvouwbare telefoons komen eraan</b></h2>
-
-          <video src="../../MP4/FoldablePhones.mp4" class="img-responsive" controls></video>
+          <img src="../../IMG/klimaat.jpg" class="img-responsive">
         </div>
       </div>
     </div>
