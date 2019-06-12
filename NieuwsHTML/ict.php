@@ -64,7 +64,7 @@
     </div>
 
     <div class="container">
-      <div class="row border top">
+      <a href="../Nieuws/ICT/foldable.php"><div class="row border top">
         <div class="col-md-8">
           <h2>Samsung releast foldable phone</h2>
           <h4><small><i>Samsung</i></small></h4>
@@ -72,8 +72,8 @@
         <div class="col-md-4">
           <img src="../IMG/ict1.jpg" class="img-responsive">
         </div>
-      </div>
-      <div class="row border top">
+      </div></a>
+      <a href="../Nieuws/ICT/philips.php"><div class="row border top">
         <div class="col-md-8">
           <h2>Philips komt met nieuwe lampen</h2>
           <h4><small><i>Philips</i></small></h4>
@@ -82,31 +82,31 @@
           <img src="../IMG/ict2.jpg" class="img-responsive">
         </div>
       </div>
-      <div class="row border top">
+      <a href="../Nieuws/ICT/google.php"><div class="row border top">
         <div class="col-md-8">
-          <h2>Philips komt met nieuwe lampen</h2>
-          <h4><small><i>Philips</i></small></h4>
+          <h2>Google stadis's prijs is bekend</h2>
+          <h4><small><i>Google</i></small></h4>
         </div>
         <div class="col-md-4">
-          <img src="../IMG/ict2.jpg" class="img-responsive">
+          <img src="../IMG/stadia.jpg" class="img-responsive">
         </div>
       </div>
-      <div class="row border top">
+      <a href="../Nieuws/ICT/mario.php"><div class="row border top">
         <div class="col-md-8">
-          <h2>Philips komt met nieuwe lampen</h2>
-          <h4><small><i>Philips</i></small></h4>
+          <h2>Nintendo komt met Mario Kart voor de telefoon en Xbox One</h2>
+          <h4><small><i>Nintendo</i></small></h4>
         </div>
         <div class="col-md-4">
-          <img src="../IMG/ict2.jpg" class="img-responsive">
+          <img src="../IMG/mario.jpg" class="img-responsive">
         </div>
       </div>
-      <div class="row border top">
+      <a href="../Nieuws/ICT/pokemon.php"><div class="row border top">
         <div class="col-md-8">
-          <h2>Philips komt met nieuwe lampen</h2>
+          <h2>Adidas brengt pickachu schoenen uit</h2>
           <h4><small><i>Philips</i></small></h4>
         </div>
         <div class="col-md-4">
-          <img src="../IMG/ict2.jpg" class="img-responsive">
+          <img src="../IMG/pokemon.jpg" class="img-responsive">
         </div>
       </div>
     </div>
