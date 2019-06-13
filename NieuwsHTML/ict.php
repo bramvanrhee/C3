@@ -33,7 +33,7 @@
             <li class="dropdown">
               <a href="#" class="dropdown-toggle" data-toggle="dropdown">Nieuws <span class="caret"></span></a>
               <ul class="dropdown-menu">
-                <li><a href="../NieuwsHTML/ict.php">ICT</a></li>
+                <li><a href="../NieuwsHTML/ict.php">Tech</a></li>
                 <li><a href="../NieuwsHTML/politiek.php">Politiek</a></li>
                 <li><a href="../NieuwsHTML/sport.php">Sport</a></li>
               </ul>
@@ -66,8 +66,8 @@
     <div class="container">
       <a href="../Nieuws/ICT/foldable.php"><div class="row border top">
         <div class="col-md-8">
-          <h2>Samsung releast foldable phone</h2>
-          <h4><small><i>Samsung</i></small></h4>
+          <h2>Samsung's Foldable Phone</h2>
+          <h4><small><i>Telefoons</i></small></h4>
         </div>
         <div class="col-md-4">
           <img src="../IMG/ict1.jpg" class="img-responsive">
@@ -75,8 +75,8 @@
       </div></a>
       <a href="../Nieuws/ICT/philips.php"><div class="row border top">
         <div class="col-md-8">
-          <h2>Philips komt met nieuwe lampen</h2>
-          <h4><small><i>Philips</i></small></h4>
+          <h2>Philips Hue-lampen Groeperen</h2>
+          <h4><small><i>Lampen</i></small></h4>
         </div>
         <div class="col-md-4">
           <img src="../IMG/ict2.jpg" class="img-responsive">
@@ -84,8 +84,8 @@
       </div>
       <a href="../Nieuws/ICT/google.php"><div class="row border top">
         <div class="col-md-8">
-          <h2>Google stadis's prijs is bekend</h2>
-          <h4><small><i>Google</i></small></h4>
+          <h2>Google Stadia: zo werkt de nieuwe gamedienst</h2>
+          <h4><small><i>Gamen</i></small></h4>
         </div>
         <div class="col-md-4">
           <img src="../IMG/stadia.jpg" class="img-responsive">
@@ -93,8 +93,8 @@
       </div>
       <a href="../Nieuws/ICT/mario.php"><div class="row border top">
         <div class="col-md-8">
-          <h2>Nintendo komt met Mario Kart voor de telefoon en Xbox One</h2>
-          <h4><small><i>Nintendo</i></small></h4>
+          <h2>Mario Kart op mobiel en nieuwe Xbox</h2>
+          <h4><small><i>Gamen</i></small></h4>
         </div>
         <div class="col-md-4">
           <img src="../IMG/mario.jpg" class="img-responsive">
@@ -102,8 +102,8 @@
       </div>
       <a href="../Nieuws/ICT/pokemon.php"><div class="row border top">
         <div class="col-md-8">
-          <h2>Adidas brengt pickachu schoenen uit</h2>
-          <h4><small><i>Philips</i></small></h4>
+          <h2>Adidas komt met Pokémon-sneakers</h2>
+          <h4><small><i>Schoenen</i></small></h4>
         </div>
         <div class="col-md-4">
           <img src="../IMG/pokemon.jpg" class="img-responsive">

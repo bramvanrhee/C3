@@ -33,7 +33,7 @@
             <li class="dropdown">
               <a href="#" class="dropdown-toggle" data-toggle="dropdown">Nieuws <span class="caret"></span></a>
               <ul class="dropdown-menu">
-                <li><a href="../NieuwsHTML/ict.php">ICT</a></li>
+                <li><a href="../NieuwsHTML/ict.php">Tech</a></li>
                 <li><a href="../NieuwsHTML/politiek.php">Politiek</a></li>
                 <li><a href="../NieuwsHTML/sport.php">Sport</a></li>
               </ul>
@@ -66,8 +66,8 @@
     <div class="container">
       <a href="../Nieuws/Sport/oranjestoet.php"><div class="row border top">
         <div class="col-md-8">
-          <h2>Oranjestoet</h2>
-          <h4><small><i>Samsung</i></small></h4>
+          <h2>Fransen roemen Oranjestoet: 'Dit heb ik nog nooit gezien'</h2>
+          <h4><small><i>Voetbal</i></small></h4>
         </div>
         <div class="col-md-4">
           <img src="../IMG/oranjestoet.jpg" class="img-responsive">
@@ -75,8 +75,8 @@
       </div>
       <a href="../Nieuws/Sport/froome.php"><div class="row border top">
         <div class="col-md-8">
-          <h2>Froome</h2>
-          <h4><small><i>Philips</i></small></h4>
+          <h2>Chris Froome mist Tour na zware val</h2>
+          <h4><small><i>Wielrennen</i></small></h4>
         </div>
         <div class="col-md-4">
           <img src="../IMG/froome.jpeg" class="img-responsive">
@@ -84,8 +84,8 @@
       </div>
       <a href="../Nieuws/Sport/sjinkie.php"><div class="row border top">
         <div class="col-md-8">
-          <h2>Sjinkie Knecht</h2>
-          <h4><small><i>Philips</i></small></h4>
+          <h2>Terug op het ijs: Sjinkie schaatst weer ondanks brandwonden</h2>
+          <h4><small><i>Schaatsen</i></small></h4>
         </div>
         <div class="col-md-4">
           <img src="../IMG/sjinkie.jpg" class="img-responsive">
@@ -93,8 +93,8 @@
       </div>
       <a href="../Nieuws/Sport/thailand.php"><div class="row border top">
         <div class="col-md-8">
-          <h2>Thailand verliest met 13-0</h2>
-          <h4><small><i>Philips</i></small></h4>
+          <h2>Recordzege op WK: Amerikaanse ploeg verslaat Thailand met 13-0</h2>
+          <h4><small><i>Voetbal</i></small></h4>
         </div>
         <div class="col-md-4">
           <img src="../IMG/thailand.jpg" class="img-responsive">
@@ -102,8 +102,8 @@
       </div>
       <a href="../Nieuws/Sport/verstappen.php"><div class="row border top">
         <div class="col-md-8">
-          <h2>Verstappen</h2>
-          <h4><small><i>Philips</i></small></h4>
+          <h2>Verstappen houdt vertrouwen in Red Bull: 'Ik geloof in dit project'</h2>
+          <h4><small><i>Formule 1</i></small></h4>
         </div>
         <div class="col-md-4">
           <img src="../IMG/verstappen.jpg" class="img-responsive">

@@ -33,7 +33,7 @@
             <li class="dropdown">
               <a href="#" class="dropdown-toggle" data-toggle="dropdown">Nieuws <span class="caret"></span></a>
               <ul class="dropdown-menu">
-                <li><a href="../NieuwsHTML/ict.php">ICT</a></li>
+                <li><a href="../NieuwsHTML/ict.php">Tech</a></li>
                 <li><a href="../NieuwsHTML/politiek.php">Politiek</a></li>
                 <li><a href="../NieuwsHTML/sport.php">Sport</a></li>
               </ul>
@@ -66,7 +66,7 @@
     <div class="container">
       <a href="../Nieuws/Politiek/klimaat.php"><div class="row border top">
         <div class="col-md-8">
-          <h2>Klimaat</h2>
+          <h2>Klimaatdemonstranten verstoren vergadering Tweede Kamer</h2>
           <h4><small><i>Demonstratie</i></small></h4>
         </div>
         <div class="col-md-4">
@@ -75,8 +75,8 @@
       </div>
       <a href="../Nieuws/Politiek/wilders.php"><div class="row border top">
         <div class="col-md-8">
-          <h2>Wilders</h2>
-          <h4><small><i>Philips</i></small></h4>
+          <h2>Kamer onderzoekt Wilders-proces voorlopig niet</h2>
+          <h4><small><i>Tweede Kamer</i></small></h4>
         </div>
         <div class="col-md-4">
           <img src="../IMG/wilders1.jpg" class="img-responsive">
@@ -84,8 +84,8 @@
       </div>
       <a href="../Nieuws/Politiek/sp.php"><div class="row border top">
         <div class="col-md-8">
-          <h2>SP</h2>
-          <h4><small><i>Philips</i></small></h4>
+          <h2>Fractievoorzitter van SP Eindhoven al maand vastgehouden in Turkije</h2>
+          <h4><small><i>Arrestatie</i></small></h4>
         </div>
         <div class="col-md-4">
           <img src="../IMG/sp.jpg" class="img-responsive">
@@ -94,7 +94,7 @@
       <a href="../Nieuws/Politiek/pedohandboek.php"><div class="row border top">
         <div class="col-md-8">
           <h2>Pedohandboek moet verboden worden</h2>
-          <h4><small><i>Philips</i></small></h4>
+          <h4><small><i>Tweede Kamer</i></small></h4>
         </div>
         <div class="col-md-4">
           <img src="../IMG/marcel.jpg" class="img-responsive">
@@ -103,7 +103,7 @@
       <a href="../Nieuws/Politiek/ivanka.php"><div class="row border top">
         <div class="col-md-8">
           <h2>Au! Ivanka Trump laat minister Kaag letterlijk ‘speechless’</h2>
-          <h4><small><i>Philips</i></small></h4>
+          <h4><small><i>Internationaal bezoek</i></small></h4>
         </div>
         <div class="col-md-4">
           <img src="../IMG/ivanka1.jpg" class="img-responsive">

@@ -33,7 +33,7 @@
             <li class="dropdown">
               <a href="#" class="dropdown-toggle" data-toggle="dropdown">Nieuws <span class="caret"></span></a>
               <ul class="dropdown-menu">
-                <li><a href="../../NieuwsHTML/ict.php">ICT</a></li>
+                <li><a href="../../NieuwsHTML/ict.php">Tech</a></li>
                 <li><a href="../../NieuwsHTML/politiek.php">Politiek</a></li>
                 <li><a href="../../NieuwsHTML/sport.php">Sport</a></li>
               </ul>
@@ -55,7 +55,7 @@
     <div class="container">
       <div class="row">
         <div class="col-md-8 col-md-push-2 col3">
-          <h1>Foldable Phone</h1>
+          <h1>Samsung's Foldable Phone</h1>
           <h4 class="space2"><small><i>11 juni 2019</i></small></h4>
 
           <h4 class="space"><b>De Samsung Galaxy Fold is de eerste telefoon met een opvouwbaar scherm die in Nederland op de markt komt. Bright probeerde de Galaxy Fold al.</b></h4>
