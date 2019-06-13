@@ -64,49 +64,49 @@
     </div>
 
     <div class="container">
-      <div class="row border top">
+      <a href="../Nieuws/Sport/oranjestoet.php"><div class="row border top">
         <div class="col-md-8">
-          <h2>Samsung releast foldable phone</h2>
+          <h2>Oranjestoet</h2>
           <h4><small><i>Samsung</i></small></h4>
         </div>
         <div class="col-md-4">
-          <img src="../IMG/ict1.jpg" class="img-responsive">
+          <img src="../IMG/oranjestoet.jpg" class="img-responsive">
         </div>
       </div>
-      <div class="row border top">
+      <a href="../Nieuws/Sport/froome.php"><div class="row border top">
         <div class="col-md-8">
-          <h2>Philips komt met nieuwe lampen</h2>
+          <h2>Froome</h2>
           <h4><small><i>Philips</i></small></h4>
         </div>
         <div class="col-md-4">
-          <img src="../IMG/ict2.jpg" class="img-responsive">
+          <img src="../IMG/froome.jpeg" class="img-responsive">
         </div>
       </div>
-      <div class="row border top">
+      <a href="../Nieuws/Sport/sjinkie.php"><div class="row border top">
         <div class="col-md-8">
-          <h2>Philips komt met nieuwe lampen</h2>
+          <h2>Sjinkie Knecht</h2>
           <h4><small><i>Philips</i></small></h4>
         </div>
         <div class="col-md-4">
-          <img src="../IMG/ict2.jpg" class="img-responsive">
+          <img src="../IMG/sjinkie.jpg" class="img-responsive">
         </div>
       </div>
-      <div class="row border top">
+      <a href="../Nieuws/Sport/thailand.php"><div class="row border top">
         <div class="col-md-8">
-          <h2>Philips komt met nieuwe lampen</h2>
+          <h2>Thailand verliest met 13-0</h2>
           <h4><small><i>Philips</i></small></h4>
         </div>
         <div class="col-md-4">
-          <img src="../IMG/ict2.jpg" class="img-responsive">
+          <img src="../IMG/thailand.jpg" class="img-responsive">
         </div>
       </div>
-      <div class="row border top">
+      <a href="../Nieuws/Sport/verstappen.php"><div class="row border top">
         <div class="col-md-8">
-          <h2>Philips komt met nieuwe lampen</h2>
+          <h2>Verstappen</h2>
           <h4><small><i>Philips</i></small></h4>
         </div>
         <div class="col-md-4">
-          <img src="../IMG/ict2.jpg" class="img-responsive">
+          <img src="../IMG/verstappen.jpg" class="img-responsive">
         </div>
       </div>
     </div>
