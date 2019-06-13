@@ -54,9 +54,11 @@
 
     <div class="container">
       <div class="row">
-        <div class="col-md-8 col-md-push-2">
+        <div class="col-md-8 col-md-push-2 col3">
           <h1>Pedohandboek moet verboden worden</h1>
           <h4 class="space2"><small><i>11 juni 2019</i></small></h4>
+
+          <video src="../../MP4/pedohandboek.mp4" controls class="img-responsive"></video>
 
           <h4 class="space"><b>De Stichting Strijd tegen Misbruik eist dat een handboek voor kindermisbruik wordt verboden en dreigt naar de rechter te stappen. Op internet is het boekwerk te vinden, met daarin aanwijzingen om kinderen ongezien te misbruiken.</b></h4>
 

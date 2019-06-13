@@ -54,9 +54,11 @@
 
     <div class="container">
       <div class="row">
-        <div class="col-md-8 col-md-push-2">
+        <div class="col-md-8 col-md-push-2 col3">
           <h1>Kamer onderzoekt Wilders-proces voorlopig niet</h1>
           <h4 class="space2"><small><i>11 juni 2019</i></small></h4>
+
+          <video src="../../MP4/wilders.mp4" controls class="img-responsive"></video>
 
           <h4 class="space"><b>Er komt voorlopig geen parlementaire enquête naar mogelijke bemoeienis van het ministerie van Justitie en Veiligheid met de rechtszaak tegen Geert Wilders. De meesten van Wilders' collega's in de Tweede Kamer steunen zo'n diepgaand onderzoek niet.</b></h4>
 
