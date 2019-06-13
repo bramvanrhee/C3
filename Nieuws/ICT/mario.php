@@ -54,7 +54,7 @@
 
     <div class="container">
       <div class="row">
-        <div class="col-md-8 col-md-push-2">
+        <div class="col-md-8 col-md-push-2 col3">
           <h1>Bright Game Journaal: Mario Kart op mobiel en nieuwe Xbox</h1>
           <h4 class="space2"><small><i>11 juni 2019</i></small></h4>
 

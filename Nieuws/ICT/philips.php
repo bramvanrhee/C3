@@ -54,7 +54,7 @@
 
     <div class="container">
       <div class="row">
-        <div class="col-md-8 col-md-push-2">
+        <div class="col-md-8 col-md-push-2 col3">
           <h1>Philips Hue-lampen Groeperen</h1>
           <h4 class="space2"><small><i>10 mei 2019</i></small></h4>
 
