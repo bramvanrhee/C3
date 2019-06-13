@@ -33,7 +33,7 @@
             <li class="dropdown">
               <a href="#" class="dropdown-toggle" data-toggle="dropdown">Nieuws <span class="caret"></span></a>
               <ul class="dropdown-menu">
-                <li><a href="../NieuwsHTML/ict.php">ICT</a></li>
+                <li><a href="../NieuwsHTML/ict.php">Tech</a></li>
                 <li><a href="../NieuwsHTML/politiek.php">Politiek</a></li>
                 <li><a href="../NieuwsHTML/sport.php">Sport</a></li>
               </ul>
@@ -59,10 +59,55 @@
       </div>
       <div class="row">
         <div class="col-md-6">
-          test
+          <h1>Geschiedenis Oracle Corporation</h1>
+
+          <h3><b>oprichting</b></h3>
+
+          <h4 class="space">Oracle werd opgericht in 1977 door Larry Ellison, Bob Miner en Ed Oates. De eerste naam waaronder zij handelden was Software Development Laboratories (SDL). In 1979 brachten zij de eerste commerciële relationele database uit en in dat jaar veranderde de bedrijfsnaam in Relational Software, Inc (RSI) om daarmee dichter bij het belangrijkste product te komen Oracle Database. In 1995 werd de naam weer gewijzigd in Oracle Corporation.</h4>
+
+          <h3><b>Overnames</b></h3>
+
+          <h4 class="space">In januari 2005 nam het PeopleSoft over. Peoplesoft had zelf vlak daarvoor JDEdwards overgenomen. Daarna heeft Oracle zich in de CRM markt ingekocht via het opkopen van Siebel. In maart 2007 werd Hyperion ingelijfd en in april 2008 BEA Systems. In 2009 nam het bedrijf Sun Microsystems over voor 7,4 miljard dollar.</h4>
+
+          <h3><b>Rechtszaak tegen Google</b></h3>
+
+          <h4 class="space">Op 13 augustus 2010 klaagde Oracle Google aan voor het overtreden van patenten met betrekking tot Java[2], dat Google gebruikt in zijn open source-besturingssysteem Android. Na de overname van Sun in 2009 heeft Oracle de Java technologie in handen gekregen en neemt hiermee een andere koers dan Sun tot dan toe met deze open programmeertaal voer. De ondersteuning van het besturingssysteem OpenSolaris is gestaakt.[3] Google heeft aangegeven zich te gaan verweren tegen alle aanklachten.[4] Op 23 mei heeft de jury unaniem geoordeeld dat Google met Android geen inbreuk maakt op 2 Java-patenten. Ook is volgens de meeste juryleden Googles gebruik van api's legitieme fair use.[5]</h4>
+
+          <h3><b>Overname NetSuite</b></h3>
+
+          <h4 class="space">In november 2016 nam Oracle het cloudsoftwarebedrijf NetSuite over.[6] Oracle betaalde US$ 9,3 miljard of US$ 109 per aandeel NetSuite.[7] Voor de overname had Larry Ellison met zijn familie al een groot minderheidsbelang in het bedrijf. Met de transactie wordt de cloudapplicaties van beide bedrijven versterkt. In 2016 behaalde Oracle zo’n 8% van de omzet met clouddiensten en heeft de ambitie dit aandeel te verhogen.[7] NetSuite werd in 1998 opgericht en werkt vooral voor het Amerikaanse midden- en kleinbedrijf en voor middelgrote bedrijven.[7]</h4>
         </div>
         <div class="col-md-6">
-          test
+          <h1>Geschiedenis Oracle Database</h1>
+
+          <h3><b>Geschiedenis</b></h3>
+
+          <h4 class="space">
+            <ul>
+              <li>1977: Larry Ellison en zijn vrienden richtten Software Development Laboratories op.</li>
+              <li>1979: SDL veranderde haar naam in 'Relational Software, Inc.' (RSI) en introduceerde haar nieuwe product Oracle V2 als een commercieel databasesysteem. Transacties werden niet ondersteund door deze versie, maar stelden de basis-SQL-functies als query's en joins in werking. (RSI heeft nooit een versie 1 gelanceerd – in plaats daarvan werd als marketingtruc gestart met Versie 2.)[1]</li>
+              <li>1982: RSI veranderde haar naam opnieuw, nu naar 'Oracle Corporation'. Dit werd gedaan om de naam meer aan te laten sluiten bij het product.[2]</li>
+              <li>1983: Het bedrijf lanceerde Oracle Version 3. Deze versie gebruikt de programmeertaal C en ondersteunde COMMIT en ROLLBACK voor transacties. Versie 3 breidde platformsupport uit door aan het bestaande Digital VAX/VMS-systeem Unix environments toe te voegen.</li>
+              <li>1984: Oracle Corporation lanceerde Oracle Version 4, deze versie ondersteunde Read-Consistency.</li>
+              <li>1985: Oracle Corporation lanceerde Oracle Version 5, deze ondersteunde het client-servermodel. Dit was een teken dat netwerken meer beschikbaar werden in de jaren tachtig.</li>
+              <li>1986: Oracle Version 5.1 ondersteunde distributed queries.</li>
+              <li>1988: Oracle RDBMS Version 6 kwam uit met ondersteuning voor PL/SQL embedded within Oracle Forms V3 (Versie 6 was niet in staat om PL/SQL fatsoenlijk in de database op te slaan), row-level locking and hot back-ups.[2]</li>
+              <li>1989: Oracle Corporation kwam op de applicatiemarkt en ontwikkelde haar ERP-product (dit werd later deel van de Oracle E-Business Suite), gebaseerd op de relationele Oracledatabase.</li>
+              <li>1990: De lancering van Oracle Applications release 8.</li>
+              <li>1992: Oracle Corporation lanceerde Oracle Version 7. Deze versie ondersteunde referentiele integriteit, opgeslagen procedures en triggers.</li>
+              <li>1997: Oracle Corporation lanceerde Oracle Version 8. Deze versie ondersteunde objectgeoriënteerde ontwikkeling en multimedia applicaties.</li>
+              <li>1999: De lancering van Oracle8i was bedoeld om een database te leveren die beter werkte met het internet. De Oracle8i database nam een originele Java virtual machine op.[3]</li>
+              <li>2000: Oracle E-Business Suite 11i pioneers integrated enterprise application software</li>
+              <li>2001: Oracle9i werd uitgebracht met 400 nieuwe functies, inclusief het vermogen om XML-documenten te lezen en te schrijven. 9i heeft ook een optie voor Oracle RAC, Real Application Clusters, een vervanging voor de Oracle Parallel Serveroptie (OPS-optie).</li>
+              <li>2003: Oracle Corporation lanceerde Oracle Database 10g, deze ondersteunde reguliere expressie. (De g staat for 'grid', emphasizing a marketing thrust of presenting 10g as "grid computing ready".)</li>
+              <li>2005: Oracle Database 10.2.0.1 – ook bekend als Oracle Database 10g Release 2 – verscheen.</li>
+              <li>2006: Oracle Corporation kondigt Unbreakable Linux aan.</li>
+              <li>2007: Oracle Database 10g Release 2 zet een nieuw wereldrecord, TPC-H 3000 GB benchmark result.</li>
+              <li>2007: Oracle Corporation lanceert Oracle Database 11g voor Linux en voor Microsoft Windows.[4]</li>
+              <li>2008: Oracle Corporation neemt BEA Systems over.[5]</li>
+              <li>2009: Oracle Corporation neemt Sun Microsystems over.[6]</li>
+              <li>2013: Oracle Database 12c werd uitgebracht.</li>
+            </ul>
         </div>
       </div>
     </div>

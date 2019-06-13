@@ -33,7 +33,7 @@
             <li class="dropdown">
               <a href="#" class="dropdown-toggle" data-toggle="dropdown">Nieuws <span class="caret"></span></a>
               <ul class="dropdown-menu">
-                <li><a href="../NieuwsHTML/ict.php">ICT</a></li>
+                <li><a href="../NieuwsHTML/ict.php">Tech</a></li>
                 <li><a href="../NieuwsHTML/politiek.php">Politiek</a></li>
                 <li><a href="../NieuwsHTML/sport.php">Sport</a></li>
               </ul>
@@ -59,10 +59,44 @@
       </div>
       <div class="row">
         <div class="col-md-6">
-          test
+          <h1>Oracle Corporation</h1>
+
+          <h3><b><a href="#wat" data-toggle="collapse">Wat is oracle Corporation?</a></b></h3>
+
+          <div id="wat" class="collapse"><h4 class="space">Oracle Corporation is een Amerikaans softwarebedrijf genoteerd aan de New York Stock Exchange. Het bedrijf heeft wereldwijd meer dan 130.000 werknemers. Oprichter Larry Ellison is voorzitter van het bedrijf. Het hoofdkantoor is in Redwood City (Californië).</h4></div>
+
+          <h3><b><a href="#activiteiten" data-toggle="collapse">Activiteiten</a></b></h3>
+
+          <div id="activiteiten" class="collapse"><h4 class="space">Oracle Corporation is vooral bekend vanwege zijn databasesysteem Oracle. Tegenwoordig begeeft het zich, zeker na de overname van BEA Systems, ook steeds meer op de middleware markt. Naast databases is Oracle Corporation ook een van de grootste leveranciers van bedrijfssoftware verzameld onder de naam Oracle E-Business Suite (ERP-/CRM-pakket). De belangrijkste productgroepen van Oracle Corporation zijn:<br><br>
+            <ul>
+              <li>Databases, o.a. Oracle 11g, Berkeley DB, InnoDB, Java DB, MySQL, Oracle Rdb, TimesTen.</li>
+              <li>Developer Tools</li>
+              <li>Oracle Fusion Middleware</li>
+              <li>E-Business Suite (ERP/CRM pakket)</li>
+            </ul>
+          </h4></div>
+
+          <h3><b><a href="#open" data-toggle="collapse">Open Source</a></b></h3>
+
+          <div id="open" class="collapse"><h4 class="space">
+            <ul>
+              <li>Linux in het bedrijf - Oracle Database is nummer 1 als het om Linux gaat, met een marktaandeel van 82,6%, en Oracle Unbreakable Linux biedt kwaliteitsondersteuning voor Linux.</li>
+              <li>Eclipse - Oracle is lid van de raad van bestuur en strategisch ontwikkelaar van Eclipse, en heeft Oracle TopLink gegeven aan de open-sourcegemeenschap. Daarnaast levert Oracle ontwikkelaars en managers voor drie projecten van Eclipse: Dali JPA Tools, JavaServer Faces (JSF) en BPEL.</li>
+              <li>Vereenvoudiging van de ontwikkeling van PHP.</li>
+              <li>Open source - toolingprojecten - Oracle levert een bijdrage aan diverse toolingprojecten, zoals Project Trinidad (ADF Faces), Eclipse, Spring en SASH.</li>
+              <li>ntegratie in Berkeley DB - Berkeley DB van Oracle is de meest algemeen gebruikte open-sourcedatabase ter wereld; het aantal implementaties wordt geschat op meer dan 200 miljoen.</li>
+              <li>InnoDB, ontwikkeld door Innobase Oy, een dochteronderneming van Oracle, en een transactional storage engine voor de populaire database MySQL.</li>
+            </ul>
+          </h4></div>
         </div>
         <div class="col-md-6">
-          test
+          <h1>Oracle Database</h1>
+
+          <h3><b><a href="#database" data-toggle="collapse">Wat is Oracle Database</a></b></h3>
+
+          <div id="database" class="collapse"><h4 class="space">Oracle Database is een databasemanagementsysteem (RDBMS) en vlaggenschip van Oracle. Oracle RDBMS was de eerste database gebaseerd op het System/R-model van IBM en de eerste relationele database die gebruikmaakt van SQL. Er is ondersteuning voor een groot aantal besturingssystemen.</h4>
+
+          <h4 class="space">Oracle heeft in de loop der tijd een 'eigen' ERP-lijn opgebouwd welke bekend is onder de naam Oracle E-Business Suite. Met deze standaardsoftware kunnen de ondersteunende processen in organisaties worden beheerd.</h4></div>
         </div>
       </div>
     </div>
