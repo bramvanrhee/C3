@@ -54,27 +54,29 @@
 
     <div class="container">
       <div class="row">
-        <div class="col-md-8 col-md-push-2 col3">
-          <h1>Verstappen houdt vertrouwen in Red Bull: 'Ik geloof in dit project'</h1>
-          <h4 class="space2"><small><i>11 juni 2019</i></small></h4>
+        <div class="col-md-8 col-md-push-2">
+          <div class="jumbotron">
+            <h1>Verstappen houdt vertrouwen in Red Bull: 'Ik geloof in dit project'</h1>
+            <h4 class="space2"><small><i>11 juni 2019</i></small></h4>
 
-          <img src="../../IMG/verstappen.jpg" class="img-responsive">
+            <img src="../../IMG/verstappen.jpg" class="img-responsive">
 
-          <h4 class="space"><b>Max Verstappen heeft nog altijd het volste vertrouwen in het team van Red Bull en motorleverancier Honda. De Nederlander stelt daarmee Red Bulls motorsportadviseur Helmut Marko gerust, nadat de Oostenrijker vorige week had laten weten dat hij vreest voor een vertrek van Verstappen als Red Bull geen competitieve auto voor hem weet te bouwen.</b></h4>
+            <h4 class="space"><b>Max Verstappen heeft nog altijd het volste vertrouwen in het team van Red Bull en motorleverancier Honda. De Nederlander stelt daarmee Red Bulls motorsportadviseur Helmut Marko gerust, nadat de Oostenrijker vorige week had laten weten dat hij vreest voor een vertrek van Verstappen als Red Bull geen competitieve auto voor hem weet te bouwen.</b></h4>
 
-          <h4 class="space">Hoewel Red Bull dit jaar een stap vooruit lijkt te hebben gemaakt met Honda als nieuwe motorleverancier, is het chassis van de auto zelf dit jaar minder competitief dan de auto van afgelopen seizoen. Daardoor moet het team van Red Bull in 2019 vooralsnog opnieuw haar meerdere erkennen in de teams van Mercedes en Ferrari. Het leidde vorige week tot bezorgde uitspraken van Helmut Marko, die vreest voor een overstap van Verstappen naar een ander team als Red Bull hem geen auto kan bieden waarmee de Nederlander kan vechten om de wereldtitel.</h4>
+            <h4 class="space">Hoewel Red Bull dit jaar een stap vooruit lijkt te hebben gemaakt met Honda als nieuwe motorleverancier, is het chassis van de auto zelf dit jaar minder competitief dan de auto van afgelopen seizoen. Daardoor moet het team van Red Bull in 2019 vooralsnog opnieuw haar meerdere erkennen in de teams van Mercedes en Ferrari. Het leidde vorige week tot bezorgde uitspraken van Helmut Marko, die vreest voor een overstap van Verstappen naar een ander team als Red Bull hem   geen auto kan bieden waarmee de Nederlander kan vechten om de wereldtitel.</h4>
 
-          <h4 class="space">“We weten allemaal dat het beter moet, maar ik geloof in het project dat we samen met Honda zijn aangegaan,” stelt Verstappen Marko gerust. “We werken er hard aan om onze prestaties te verbeteren. We zullen zien waar we de komende races staan, omdat het plaatje er zomaar opeens heel anders uit kan zien wanneer je een beetje meer vermogen of beetje meer balans in je auto vindt.”</h4>
+            <h4 class="space">“We weten allemaal dat het beter moet, maar ik geloof in het project dat we samen met Honda zijn aangegaan,” stelt Verstappen Marko gerust. “We werken er hard aan om onze prestaties te verbeteren. We zullen zien waar we de komende races staan, omdat het plaatje er zomaar opeens heel anders uit kan zien wanneer je een beetje meer vermogen of beetje meer balans in je auto vindt.”</h4>
 
-          <h3><b>Chassis minder goed dan in 2018</b></h3>
+            <h3><b>Chassis minder goed dan in 2018</b></h3>
 
-          <h4 class="space">Verstappen beschouwde zijn vijfde plek in Canada – zijn slechtste resultaat tot dusver dit seizoen – als het maximaal haalbare. Vorig jaar eindigde de Nederlander er nog op het podium, maar Verstappen moet erkennen dat de auto van dit jaar minder competitief is vergeleken met de Mercedessen en Ferrari’s.</h4>
+            <h4 class="space">Verstappen beschouwde zijn vijfde plek in Canada – zijn slechtste resultaat tot dusver dit seizoen – als het maximaal haalbare. Vorig jaar eindigde de Nederlander er nog op het podium, maar Verstappen moet erkennen dat de auto van dit jaar minder competitief is vergeleken met de Mercedessen en Ferrari’s.</h4>
 
-          <h4 class="space">“In Monaco waren we het tweede team. Ik wist dat dit circuit ons niet zo goed zou liggen, ook al waren we er vorig jaar nog best competitief. Ik denk dat ons chassis vorig jaar een stuk beter was dan de Mercedes en de Ferrari. Nu zou ik niet zeggen dat we de bovenhand hebben, dus dan wordt het automatisch al een stuk lastiger.”</h4>
+            <h4 class="space">“In Monaco waren we het tweede team. Ik wist dat dit circuit ons niet zo goed zou liggen, ook al waren we er vorig jaar nog best competitief. Ik denk dat ons chassis vorig jaar een stuk beter was dan de Mercedes en de Ferrari. Nu zou ik niet zeggen dat we de bovenhand hebben, dus dan wordt het automatisch al een stuk lastiger.”</h4>
 
-          <h3><b>Verwachte motorupdate in Frankrijk</b></h3>
+            <h3><b>Verwachte motorupdate in Frankrijk</b></h3>
 
-          <h4 class="space">In een poging om het gat naar Mercedes en Ferrari te dichten krijgt Red Bull volgende week in Frankrijk mogelijk al de beschikking over een nieuwe krachtbron van Honda. Het zou al de tweede upgrade van de Japanse motorfabrikant dit seizoen zijn, nadat Red Bull eerder dit jaar in Bakoe ook al een motorupgrade in gebruik nam. Verstappen zou daarmee wisselen naar zijn derde krachtbron dit seizoen, zijn laatste motorwissel dit seizoen die de Limburger niet op een gridstraf zal komen te staan.</h4>
+            <h4 class="space">In een poging om het gat naar Mercedes en Ferrari te dichten krijgt Red Bull volgende week in Frankrijk mogelijk al de beschikking over een nieuwe krachtbron van Honda. Het zou al de tweede upgrade van de Japanse motorfabrikant dit seizoen zijn, nadat Red Bull eerder dit jaar in Bakoe ook al een motorupgrade in gebruik nam. Verstappen zou daarmee wisselen naar zijn derde krachtbron dit seizoen, zijn laatste motorwissel dit seizoen die de Limburger niet op een   gridstraf zal komen te staan.</h4>
+          </div>
         </div>
       </div>
     </div>

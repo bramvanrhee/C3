@@ -54,15 +54,17 @@
 
     <div class="container">
       <div class="row">
-        <div class="col-md-8 col-md-push-2 col3">
-          <h1>Mario Kart op mobiel en nieuwe Xbox</h1>
-          <h4 class="space2"><small><i>11 juni 2019</i></small></h4>
+        <div class="col-md-8 col-md-push-2">
+          <div class="jumbotron">
+            <h1>Mario Kart op mobiel en nieuwe Xbox</h1>
+            <h4 class="space2"><small><i>11 juni 2019</i></small></h4>
 
-          <h4 class="space"><b>De maand mei zat boordevol met game-nieuws: van de eerste beelden van de Mario Kart voor smartphones tot nieuwe informatie over de Playstation 5.</b></h4>
+            <h4 class="space"><b>De maand mei zat boordevol met game-nieuws: van de eerste beelden van de Mario Kart voor smartphones tot nieuwe informatie over de Playstation 5.</b></h4>
 
-          <h4 class="space">In het Bright Game Journaal praat Jan Meijroos je elke maand bij over het belangrijkste gamenieuws. Met dit keer: Mario Kart Tour op iOS en Android, een review van de nieuwe Xbox One S All Digital, meer details over de Playstation 5, de opvallende portable console Play Date en als game van de maand 'A Plague Tale: Innocence'. Bekijk het hele Bright Game Journaal</h4>
+            <h4 class="space">In het Bright Game Journaal praat Jan Meijroos je elke maand bij over het belangrijkste gamenieuws. Met dit keer: Mario Kart Tour op iOS en Android, een review van de nieuwe Xbox One S All Digital, meer details over de Playstation 5, de opvallende portable console Play Date en als game van de maand 'A Plague Tale: Innocence'. Bekijk het hele Bright Game Journaal</h4>
 
-          <video src="../../MP4/MarioKart.mp4" class="img-responsive" controls></video>
+            <video src="../../MP4/MarioKart.mp4" class="img-responsive" controls></video>
+          </div>
         </div>
       </div>
     </div>

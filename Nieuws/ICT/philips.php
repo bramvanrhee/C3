@@ -54,23 +54,25 @@
 
     <div class="container">
       <div class="row">
-        <div class="col-md-8 col-md-push-2 col3">
-          <h1>Philips Hue-lampen Groeperen</h1>
-          <h4 class="space2"><small><i>10 mei 2019</i></small></h4>
+        <div class="col-md-8 col-md-push-2">
+          <div class="jumbotron">
+            <h1>Philips Hue-lampen Groeperen</h1>
+            <h4 class="space2"><small><i>10 mei 2019</i></small></h4>
 
-          <h4 class="space"><b>De Philips Hue-lampen hebben een update gekregen waardoor je lampen in groepen, zogeheten zones, kan onderbrengen. Die zones kan je vervolgens apart bedienen.</b></h4>
+            <h4 class="space"><b>De Philips Hue-lampen hebben een update gekregen waardoor je lampen in groepen, zogeheten zones, kan onderbrengen. Die zones kan je vervolgens apart bedienen.</b></h4>
 
-          <h4 class="space">Voorheen kon je de slimme lampen van Philips groeperen per kamer. Als je bijvoorbeeld in een kamer met zes Hue-lampen twee daarvan wilde dimmen, dan moest je die twee lampen één voor één dimmen.</h4>
+            <h4 class="space">Voorheen kon je de slimme lampen van Philips groeperen per kamer. Als je bijvoorbeeld in een kamer met zes Hue-lampen twee daarvan wilde dimmen, dan moest je die twee lampen één voor één dimmen.</h4>
 
-          <h4 class="space">Met de nieuwe zones groepeer je die lampen die je bijvoorbeeld 's avonds altijd dimt om televisie te kijken, zodat je ze afzonderlijk van de rest van de lampen in de kamer kan bedienen. Zeker als je heel veel lampen hebt, maken zones de bediening veel eenvoudiger.</h4>
+            <h4 class="space">Met de nieuwe zones groepeer je die lampen die je bijvoorbeeld 's avonds altijd dimt om televisie te kijken, zodat je ze afzonderlijk van de rest van de lampen in de kamer kan bedienen. Zeker als je heel veel lampen hebt, maken zones de bediening veel eenvoudiger.</h4>
 
-          <h3><b>Verdieping</b></h3>
+            <h3><b>Verdieping</b></h3>
 
-          <h4 class="space"> Je kunt ook kamers groeperen in een zone, zoals 'begane grond' of 'eerste verdieping'. Je kan dan bijvoorbeeld met één swipe op het touchscreen alle lampen op een verdieping uitzetten of een andere Scene toekennen.</h4>
+            <h4 class="space"> Je kunt ook kamers groeperen in een zone, zoals 'begane grond' of 'eerste verdieping'. Je kan dan bijvoorbeeld met één swipe op het touchscreen alle lampen op een verdieping uitzetten of een andere Scene toekennen.</h4>
 
-          <h4 class="space">De Hue-app update is zowel beschikbaar voor iOS als Android. De Zones-optie bevindt zich nog wel in de testfase en werkt nog niet met alle functies, zoals routines en ook niet met spraakassistenten en sommige accessoires.</h4>
+            <h4 class="space">De Hue-app update is zowel beschikbaar voor iOS als Android. De Zones-optie bevindt zich nog wel in de testfase en werkt nog niet met alle functies, zoals routines en ook niet met spraakassistenten en sommige accessoires.</h4>
 
-          <video src="../../MP4/ZonesHue.mp4" controls class="img-responsive"></video>
+            <video src="../../MP4/ZonesHue.mp4" controls class="img-responsive"></video>
+          </div>
         </div>
       </div>
     </div>

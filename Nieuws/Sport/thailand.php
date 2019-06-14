@@ -54,17 +54,19 @@
 
     <div class="container">
       <div class="row">
-        <div class="col-md-8 col-md-push-2 col3">
-          <h1>Recordzege op WK: Amerikaanse ploeg verslaat Thailand met 13-0</h1>
-          <h4 class="space2"><small><i>11 juni 2019</i></small></h4>
+        <div class="col-md-8 col-md-push-2">
+          <div class="jumbotron">
+            <h1>Recordzege op WK: Amerikaanse ploeg verslaat Thailand met 13-0</h1>
+            <h4 class="space2"><small><i>11 juni 2019</i></small></h4>
 
-          <img src="../../IMG/thailand.jpg" class="img-responsive">
+            <img src="../../IMG/thailand.jpg" class="img-responsive">
 
-          <h4 class="space"><b>De Amerikaanse voetbalsters zijn met een recordzege begonnen aan het WK in Frankrijk. De drievoudige wereldkampioen haalde in Reims tegen Thailand een uniek resultaat: 13-0. Nooit eerder scoorde een ploeg op het WK voor vrouwen dertien keer in één wedstrijd.</b></h4>
+            <h4 class="space"><b>De Amerikaanse voetbalsters zijn met een recordzege begonnen aan het WK in Frankrijk. De drievoudige wereldkampioen haalde in Reims tegen Thailand een uniek resultaat: 13-0. Nooit eerder scoorde een ploeg op het WK voor vrouwen dertien keer in één wedstrijd.</b></h4>
 
-          <h4 class="space">Bij de rust leidde de titelverdediger nog maar met 3-0. Na de pauze ging het echter heel hard. Alex Morgan blonk uit met vijf treffers. Dat is een evenaring van het vrouwenrecord in een WK-wedstrijd. De andere Amerikaanse doelpunten kwamen op naam van Rose Lavelle (twee), Sam Mewis (twee), Lindsey Horan, Megan Rapinoe, Mallory Pugh en Carli Lloyd.</h4>
+            <h4 class="space">Bij de rust leidde de titelverdediger nog maar met 3-0. Na de pauze ging het echter heel hard. Alex Morgan blonk uit met vijf treffers. Dat is een evenaring van het vrouwenrecord in een WK-wedstrijd. De andere Amerikaanse doelpunten kwamen op naam van Rose Lavelle (twee), Sam Mewis (twee), Lindsey Horan, Megan Rapinoe, Mallory Pugh en Carli Lloyd.</h4>
 
-          <h4 class="space">Eerder op de avond won Zweden in dezelfde poule met 2-0 van Chili. De Zuid-Amerikaanse WK-debutant hield lang stand maar na een onderbreking vanwege hevig onweer kwam de Scandinavische ploeg alsnog tot scoren. Kosovare Asllani (83e minuut) en Madelen Janogy (blessuretijd) maakten de doelpunten.</h4>
+            <h4 class="space">Eerder op de avond won Zweden in dezelfde poule met 2-0 van Chili. De Zuid-Amerikaanse WK-debutant hield lang stand maar na een onderbreking vanwege hevig onweer kwam de Scandinavische ploeg alsnog tot scoren. Kosovare Asllani (83e minuut) en Madelen Janogy (blessuretijd) maakten de doelpunten.</h4>
+          </div>
         </div>
       </div>
     </div>

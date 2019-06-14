@@ -54,27 +54,29 @@
 
     <div class="container">
       <div class="row">
-        <div class="col-md-8 col-md-push-2 col3">
-          <h1>Klimaatdemonstranten verstoren vergadering Tweede Kamer</h1>
-          <h4 class="space2"><small><i>11 juni 2019</i></small></h4>
+        <div class="col-md-8 col-md-push-2">
+          <div class="jumbotron">
+            <h1>Klimaatdemonstranten verstoren vergadering Tweede Kamer</h1>
+            <h4 class="space2"><small><i>11 juni 2019</i></small></h4>
 
-          <video src="../../MP4/klimaat.mp4" controls class="img-responsive"></video>
+            <video src="../../MP4/klimaat.mp4" controls class="img-responsive"></video>
 
-          <h4 class="space"><b>Een tiental klimaatdemonstranten heeft vanmiddag de vergadering van de Tweede Kamer verstoord met een protest. De demonstranten riepen protestleuzen en hadden spandoeken met onder meer ‘De Tijd Dringt’ erop. Die hadden ze binnengesmokkeld door ze als rokjes te dragen. Ook riepen ze leuzen, samen met enkele andere activisten. Een aantal van hen is aangehouden.</b></h4>
+            <h4 class="space"><b>Een tiental klimaatdemonstranten heeft vanmiddag de vergadering van de Tweede Kamer verstoord met een protest. De demonstranten riepen protestleuzen en hadden spandoeken met onder meer ‘De Tijd Dringt’ erop. Die hadden ze binnengesmokkeld door ze als rokjes te dragen. Ook riepen ze leuzen, samen met enkele andere activisten. Een aantal van hen is aangehouden.</b></h4>
 
-          <h4 class="space">De demonstranten van de groep Extinction Rebellion braken in tijdens de wekelijkse stemmingen in de plenaire zaal van de Tweede Kamer. Terwijl vrijwel de gehele Kamer aanwezig was, begon de groep plots te schreeuwen. De demonstranten werden door agenten en andere toegesnelde bewakers verwijderd van de publieke tribune. Tegenstribbelende betogers werden over de grond naar buiten gesleept. Daar zongen ze gewoon door: ,,I hear the voice of my great granddaughter, saying climate justice now’’, was een van de teksten.</h4>
+            <h4 class="space">De demonstranten van de groep Extinction Rebellion braken in tijdens de wekelijkse stemmingen in de plenaire zaal van de Tweede Kamer. Terwijl vrijwel de gehele Kamer aanwezig was, begon de groep plots te schreeuwen. De demonstranten werden door agenten en andere toegesnelde bewakers verwijderd van de publieke tribune. Tegenstribbelende betogers werden over de grond naar buiten gesleept. Daar zongen ze gewoon door: ,,I hear the voice of my great granddaughter, saying   climate justice now’’, was een van de teksten.</h4>
 
-          <h4 class="space">De politie heeft twaalf mensen opgepakt die zich op de publieke tribune misdroegen. Ze zijn aangehouden vanwege het verstoren van een openbare vergadering. Volgens een woordvoerder van de organisatie zijn dertien actievoerders opgepakt.</h4>
+            <h4 class="space">De politie heeft twaalf mensen opgepakt die zich op de publieke tribune misdroegen. Ze zijn aangehouden vanwege het verstoren van een openbare vergadering. Volgens een woordvoerder van de organisatie zijn dertien actievoerders opgepakt.</h4>
 
-          <img src="../../IMG/klimaat.jpg" class="img-responsive">
+            <img src="../../IMG/klimaat.jpg" class="img-responsive">
 
-          <h3><b>Biodiversiteit</b></h3>
+            <h3><b>Biodiversiteit</b></h3>
 
-          <h4 class="space">De actievoerders protesteerden tegen een besluit van de Kamer. Een meerderheid wilde geen noodtoestand uitroepen voor het klimaat en de biodiversiteit. Oproepen daartoe van de Partij voor de Dieren werden verworpen.</h4>
+            <h4 class="space">De actievoerders protesteerden tegen een besluit van de Kamer. Een meerderheid wilde geen noodtoestand uitroepen voor het klimaat en de biodiversiteit. Oproepen daartoe van de Partij voor de Dieren werden verworpen.</h4>
 
-          <h4 class="space">De activisten protesteerden ook buiten de Kamer. Extinction Rebellion is een van oorsprong Britse beweging, die een forsere aanpak van de klimaatverandering eist.</h4>
+           <h4 class="space">De activisten protesteerden ook buiten de Kamer. Extinction Rebellion is een van oorsprong Britse beweging, die een forsere aanpak van de klimaatverandering eist.</h4>
 
-          <img src="../../IMG/klimaat1.jpg" class="img-responsive">
+           <img src="../../IMG/klimaat1.jpg" class="img-responsive">
+         </div>
         </div>
       </div>
     </div>

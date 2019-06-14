@@ -54,33 +54,35 @@
 
     <div class="container">
       <div class="row">
-        <div class="col-md-8 col-md-push-2 col3">
-          <h1>Samsung's Foldable Phone</h1>
-          <h4 class="space2"><small><i>11 juni 2019</i></small></h4>
+        <div class="col-md-8 col-md-push-2">
+          <div class="jumbotron">
+            <h1>Samsung's Foldable Phone</h1>
+            <h4 class="space2"><small><i>11 juni 2019</i></small></h4>
 
-          <h4 class="space"><b>De Samsung Galaxy Fold is de eerste telefoon met een opvouwbaar scherm die in Nederland op de markt komt. Bright probeerde de Galaxy Fold al.</b></h4>
+            <h4 class="space"><b>De Samsung Galaxy Fold is de eerste telefoon met een opvouwbaar scherm die in Nederland op de markt komt. Bright probeerde de Galaxy Fold al.</b></h4>
 
-          <h4 class="space">Vanaf 3 mei is de Samsung Galaxy Fold in Nederland verkrijgbaar. Aan de buitenkant heeft de telefoon een 4,6 inch scherm, opengevouwen heeft de Galaxy Fold een 7,3 inch scherm. De prijs van de opvouwbare telefoon is even slikken: 2020 euro.</h4>
+            <h4 class="space">Vanaf 3 mei is de Samsung Galaxy Fold in Nederland verkrijgbaar. Aan de buitenkant heeft de telefoon een 4,6 inch scherm, opengevouwen heeft de Galaxy Fold een 7,3 inch scherm. De prijs van de opvouwbare telefoon is even slikken: 2020 euro.</h4>
 
-          <h4>Bright-hoofdredacteur Erwin van der Zande heeft de Galaxy Fold al kunnen proberen. Bekijk zijn eerste indruk.</h4>
+            <h4>Bright-hoofdredacteur Erwin van der Zande heeft de Galaxy Fold al kunnen proberen. Bekijk zijn eerste indruk.</h4>
 
-          <video src="../../MP4/EersteIndruk.mp4" class="img-responsive space" controls></video>
+            <video src="../../MP4/EersteIndruk.mp4" class="img-responsive space" controls></video>
 
-          <h3><b>Specs</b></h3>
+            <h3><b>Specs</b></h3>
 
-          <h4 class="space">De Galaxy Fold heeft een Snapdragon 855-chip, 12 GB werkgeheugen, 512 GB opslag en een 4360 mAh-accu. Het toestel heeft dezelfde camera's als in de high-end Galaxy S10+, met drie camera's aan de achterkant, twee aan de binnenkant en nog een extra frontcamera aan de voorkant. De vingerafdruksensor zit aan de zijkant van het toestel, net als bij de Galaxy S10E.</4>
+            <h4 class="space">De Galaxy Fold heeft een Snapdragon 855-chip, 12 GB werkgeheugen, 512 GB opslag en een 4360 mAh-accu. Het toestel heeft dezelfde camera's als in de high-end Galaxy S10+, met drie camera's aan de achterkant, twee aan de binnenkant en nog een extra frontcamera aan de voorkant. De vingerafdruksensor zit aan de zijkant van het toestel, net als bij de Galaxy S10E.</4>
 
-          <h3><b>Huawei en andere concurrenten</b></h3>
+            <h3><b>Huawei en andere concurrenten</b></h3>
 
-          <h4 class="space">De enige concurrent voor de Galaxy Fold die al officieel is aangekondigd is de Huawei Mate X, die anders opvouwt dan het Samsung-toestel. Het vouwbare scherm zit bij de Mate X aan de buitenkant. De opvouwbare Huawei-telefoon is nog duurder: 2299 euro.</h4>
+            <h4 class="space">De enige concurrent voor de Galaxy Fold die al officieel is aangekondigd is de Huawei Mate X, die anders opvouwt dan het Samsung-toestel. Het vouwbare scherm zit bij de Mate X aan de buitenkant. De opvouwbare Huawei-telefoon is nog duurder: 2299 euro.</h4>
 
-          <h4>Het Chinese merk Royole was eind 2018 de eerste fabrikant die een opvouwbare telefoon op de markt bracht, maar dat toestel is nog alleen in China verkrijgbaar.</h4>
+            <h4>Het Chinese merk Royole was eind 2018 de eerste fabrikant die een opvouwbare telefoon op de markt bracht, maar dat toestel is nog alleen in China verkrijgbaar.</h4>
 
-          <h4>Ook andere bekende fabrikanten, zoals Xiaomi, Oppo en Motorola, werken aan smartphones met vouwbare schermen.</h4>
+            <h4>Ook andere bekende fabrikanten, zoals Xiaomi, Oppo en Motorola, werken aan smartphones met vouwbare schermen.</h4>
 
-          <h2><b>Eerder: opvouwbare telefoons komen eraan</b></h2>
+            <h2><b>Eerder: opvouwbare telefoons komen eraan</b></h2>
 
-          <video src="../../MP4/FoldablePhones.mp4" class="img-responsive" controls></video>
+            <video src="../../MP4/FoldablePhones.mp4" class="img-responsive" controls></video>
+          </div>
         </div>
       </div>
     </div>

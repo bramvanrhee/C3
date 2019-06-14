@@ -54,21 +54,23 @@
 
     <div class="container">
       <div class="row">
-        <div class="col-md-8 col-md-push-2 col3">
-          <h1>Chris Froome mist Tour na zware val</h1>
-          <h4 class="space2"><small><i>11 juni 2019</i></small></h4>
+        <div class="col-md-8 col-md-push-2">\
+          <div class="jumbotron">
+            <h1>Chris Froome mist Tour na zware val</h1>
+            <h4 class="space2"><small><i>11 juni 2019</i></small></h4>
 
-          <img src="../../IMG/froome.jpeg" class="img-responsive">
+            <img src="../../IMG/froome.jpeg" class="img-responsive">
 
-          <h4 class="space"><b>Chris Froome is woensdag tijdens de verkenning van het tijdritparcours van de vierde etappe van het Critérium du Dauphiné ten val gekomen. De renner is meteen afgevoerd naar het ziekenhuis voor onderzoek, waaruit blijkt dat hij niet op tijd fit is voor de Tour de France.</b></h4>
+            <h4 class="space"><b>Chris Froome is woensdag tijdens de verkenning van het tijdritparcours van de vierde etappe van het Critérium du Dauphiné ten val gekomen. De renner is meteen afgevoerd naar het ziekenhuis voor onderzoek, waaruit blijkt dat hij niet op tijd fit is voor de Tour de France.</b></h4>
 
-          <h4 class="space">Ook een optreden van een rapper en een film waaraan zowel de Nederlandse als Amerikaanse ministeries van Buitenlandse Zaken lang hadden gewerkt, werden zo vergeten. Vanaf de eerste rij werd door Kaag en haar ambtenaren nog met handgebaren aangegeven dat de Amerikaanse onderminister die het gesprek met Trump leidde het congres niet moest afsluiten. Tevergeefs.</h4>
+            <h4 class="space">Ook een optreden van een rapper en een film waaraan zowel de Nederlandse als Amerikaanse ministeries van Buitenlandse Zaken lang hadden gewerkt, werden zo vergeten. Vanaf de eerste rij werd door Kaag en haar ambtenaren nog met handgebaren aangegeven dat de Amerikaanse onderminister die het gesprek met Trump leidde het congres niet moest afsluiten. Tevergeefs.</h4>
 
-          <h4 class="space">"Froome kwam ten val in een afdaling op hoge snelheid", zegt Brailsford tegen Franse media. "Hij raakte daarbij een muur. De ambulance was er snel bij. Het is een zeer serieus ongeval. Voor alle duidelijkheid, hij zal niet aan de start staan van de Tour de France. Het zal lang duren voordat hij weer kan rijden."</h4>
+            <h4 class="space">"Froome kwam ten val in een afdaling op hoge snelheid", zegt Brailsford tegen Franse media. "Hij raakte daarbij een muur. De ambulance was er snel bij. Het is een zeer serieus ongeval. Voor alle duidelijkheid, hij zal niet aan de start staan van de Tour de France. Het zal lang duren voordat hij weer kan rijden."</h4>
 
-          <h4 class="space">Froome bereidde zich in de Dauphiné voor op de Tour de France, die hij voor de vijfde keer hoopte te winnen.</h4>
+            <h4 class="space">Froome bereidde zich in de Dauphiné voor op de Tour de France, die hij voor de vijfde keer hoopte te winnen.</h4>
 
-          <img src="../../IMG/froome1.jpg" class="img-responsive">
+            <img src="../../IMG/froome1.jpg" class="img-responsive">
+          </div>
         </div>
       </div>
     </div>

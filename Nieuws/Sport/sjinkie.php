@@ -54,27 +54,29 @@
 
     <div class="container">
       <div class="row">
-        <div class="col-md-8 col-md-push-2 col3">
-          <h1>Terug op het ijs: Sjinkie schaatst weer ondanks brandwonden</h1>
-          <h4 class="space2"><small><i>11 juni 2019</i></small></h4>
+        <div class="col-md-8 col-md-push-2">
+          <div class="jumbotron">
+            <h1>Terug op het ijs: Sjinkie schaatst weer ondanks brandwonden</h1>
+            <h4 class="space2"><small><i>11 juni 2019</i></small></h4>
 
-          <img src="../../IMG/sjinkie.jpg" class="img-responsive">
+            <img src="../../IMG/sjinkie.jpg" class="img-responsive">
 
-          <h4 class="space"><b>Na een zware periode lijkt het weer beter te gaan met Sjinkie Knegt. Door zijn brandwonden was het de vraag of hij ooit weer kon schaatsen, maar vanmorgen stond hij voor het eerst weer op het ijs.</b></h4>
+            <h4 class="space"><b>Na een zware periode lijkt het weer beter te gaan met Sjinkie Knegt. Door zijn brandwonden was het de vraag of hij ooit weer kon schaatsen, maar vanmorgen stond hij voor het eerst weer op het ijs.</b></h4>
 
-          <h4 class="space">Een half uur lang stond de shorttracker vanmorgen op de baan, om zichzelf te testen. "Dat ging prima. In elk geval veel beter dan ik had gedacht", zegt hij tegen het Eindhovens Dagblad.</h4>
+            <h4 class="space">Een half uur lang stond de shorttracker vanmorgen op de baan, om zichzelf te testen. "Dat ging prima. In elk geval veel beter dan ik had gedacht", zegt hij tegen het Eindhovens Dagblad.</h4>
 
-          <video src="../../MP4/sjinkie.mp4" controls class="img-responsive"></video>
+            <video src="../../MP4/sjinkie.mp4" controls class="img-responsive"></video>
 
-          <h3><b>Ongeluk</b></h3>
+            <h3><b>Ongeluk</b></h3>
 
-          <h4 class="space">In januari moest Knegt met ernstige brandwonden naar het ziekenhuis, na een ongeluk bij zijn open haard. Na zeven weken in een revalidatiecentrum te hebben gelegen, mocht hij naar huis.</h4>
+            <h4 class="space">In januari moest Knegt met ernstige brandwonden naar het ziekenhuis, na een ongeluk bij zijn open haard. Na zeven weken in een revalidatiecentrum te hebben gelegen, mocht hij naar huis.</h4>
 
-          <h4 class="space">Toch bleef nog lang onduidelijk of hij ooit weer op het ijs zou staan. Eerder dit jaar vroeg hij zich nog hardop af of hij überhaupt weer zou kunnen schaatsen.</h4>
+            <h4 class="space">Toch bleef nog lang onduidelijk of hij ooit weer op het ijs zou staan. Eerder dit jaar vroeg hij zich nog hardop af of hij überhaupt weer zou kunnen schaatsen.</h4>
 
-          <h3><b>Beijing</b></h3>
+            <h3><b>Beijing</b></h3>
 
-          <h4 class="space">Inmiddels traint Knegt weer volop, en is hij ook door de bondscoach opgenomen in de groep van achttien shorttrackers die naar de Spelen van 2022 toewerkt. Wanneer hij weer wedstrijden zal gaan schaatsen, is nog niet duidelijk.</h4>
+            <h4 class="space">Inmiddels traint Knegt weer volop, en is hij ook door de bondscoach opgenomen in de groep van achttien shorttrackers die naar de Spelen van 2022 toewerkt. Wanneer hij weer wedstrijden zal gaan schaatsen, is nog niet duidelijk.</h4>
+          </div>
         </div>
       </div>
     </div>

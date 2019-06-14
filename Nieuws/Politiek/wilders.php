@@ -54,23 +54,25 @@
 
     <div class="container">
       <div class="row">
-        <div class="col-md-8 col-md-push-2 col3">
-          <h1>Kamer onderzoekt Wilders-proces voorlopig niet</h1>
-          <h4 class="space2"><small><i>11 juni 2019</i></small></h4>
+        <div class="col-md-8 col-md-push-2">
+          <div class="jumbotron">
+            <h1>Kamer onderzoekt Wilders-proces voorlopig niet</h1>
+            <h4 class="space2"><small><i>11 juni 2019</i></small></h4>
 
-          <video src="../../MP4/wilders.mp4" controls class="img-responsive"></video>
+            <video src="../../MP4/wilders.mp4" controls class="img-responsive"></video>
 
-          <h4 class="space"><b>Er komt voorlopig geen parlementaire enquête naar mogelijke bemoeienis van het ministerie van Justitie en Veiligheid met de rechtszaak tegen Geert Wilders. De meesten van Wilders' collega's in de Tweede Kamer steunen zo'n diepgaand onderzoek niet.</b></h4>
+            <h4 class="space"><b>Er komt voorlopig geen parlementaire enquête naar mogelijke bemoeienis van het ministerie van Justitie en Veiligheid met de rechtszaak tegen Geert Wilders. De meesten van Wilders' collega's in de Tweede Kamer steunen zo'n diepgaand onderzoek niet.</b></h4>
 
-          <h4 class="space">Wilders denkt dat toenmalig minister Ivo Opstelten het Openbaar Ministerie heeft gemaand de PVV-leider te vervolgen voor zijn uitlatingen over ‘Minder Marokkanen’. Hij schermt met een nieuwe verklaring van een ambtenaar, die zou beweren dat zelf van Opstelten te hebben gehoord.</h4>
+            <h4 class="space">Wilders denkt dat toenmalig minister Ivo Opstelten het Openbaar Ministerie heeft gemaand de PVV-leider te vervolgen voor zijn uitlatingen over ‘Minder Marokkanen’. Hij schermt met een nieuwe verklaring van een ambtenaar, die zou beweren dat zelf van Opstelten te hebben gehoord.</h4>
 
-          <h4 class="space">Daardoor is de rechtszaak ‘een politiek proces’ en een ‘afrekening met een politiek leider van de oppositie’ gebleken, vindt Wilders. Het proces moet dan ook meteen worden gestaakt en de Kamer moet een enquête instellen.</h4>
+            <h4 class="space">Daardoor is de rechtszaak ‘een politiek proces’ en een ‘afrekening met een politiek leider van de oppositie’ gebleken, vindt Wilders. Het proces moet dan ook meteen worden gestaakt en de Kamer moet een enquête instellen.</h4>
 
-          <h4 class="space">Maar daarvoor vinden onder andere VVD, CDA, GroenLinks, SP, ChristenUnie en 50Plus het te vroeg. Zij willen eerst de rechter laten spreken. Forum voor Democratie steunt de oproep van Wilders ‘uiteraard’ wel.</h4>
+            <h4 class="space">Maar daarvoor vinden onder andere VVD, CDA, GroenLinks, SP, ChristenUnie en 50Plus het te vroeg. Zij willen eerst de rechter laten spreken. Forum voor Democratie steunt de oproep van Wilders ‘uiteraard’ wel.</h4>
 
-          <h4 class="space">De Kamer kan bij een enquête betrokkenen verplichten onder ede hun verhaal te komen doen.</h4>
+            <h4 class="space">De Kamer kan bij een enquête betrokkenen verplichten onder ede hun verhaal te komen doen.</h4>
 
-          <img src="../../IMG/wilders.jpg" class="img-responsive">
+            <img src="../../IMG/wilders.jpg" class="img-responsive">
+          </div>
         </div>
       </div>
     </div>

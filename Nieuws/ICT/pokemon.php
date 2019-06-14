@@ -54,17 +54,19 @@
 
     <div class="container">
       <div class="row">
-        <div class="col-md-8 col-md-push-2 col3">
-          <h1>Adidas komt met Pokémon-sneakers</h1>
-          <h4 class="space2"><small><i>11 juni 2019</i></small></h4>
+        <div class="col-md-8 col-md-push-2">
+          <div class="jumbotron">
+            <h1>Adidas komt met Pokémon-sneakers</h1>
+            <h4 class="space2"><small><i>11 juni 2019</i></small></h4>
 
-          <h4 class="space"><b>De Pokémon-hype is nog niet voorbij! Na de gekte rondom Pokémon Go en een bioscoopfilm die deze week uitkomt, brengt Adidas een heuse schoenenlijn op de markt.</b></h4>
+            <h4 class="space"><b>De Pokémon-hype is nog niet voorbij! Na de gekte rondom Pokémon Go en een bioscoopfilm die deze week uitkomt, brengt Adidas een heuse schoenenlijn op de markt.</b></h4>
 
-          <h4 class="space">De door Pikachu geinspireerde sneakers van Adidas Campus zullen binnenkort verschijnen. Over de gehele schoen is de Pokemon te zien, met aan de zijkant een enorme Pikachu. Uiteraard kan de iconische Pokéball niet ontbreken.</h4>
+            <h4 class="space">De door Pikachu geinspireerde sneakers van Adidas Campus zullen binnenkort verschijnen. Over de gehele schoen is de Pokemon te zien, met aan de zijkant een enorme Pikachu. Uiteraard kan de iconische Pokéball niet ontbreken.</h4>
 
-          <h4>Bright-hoofdredacteur Erwin van der Zande heeft de Galaxy Fold al kunnen proberen. Bekijk zijn eerste indruk.</h4>
+            <h4>Bright-hoofdredacteur Erwin van der Zande heeft de Galaxy Fold al kunnen proberen. Bekijk zijn eerste indruk.</h4>
 
-          <img src="../../IMG/adidas.jpg" class="img-responsive">
+            <img src="../../IMG/adidas.jpg" class="img-responsive">
+          </div>
         </div>
       </div>
     </div>

@@ -54,29 +54,31 @@
 
     <div class="container">
       <div class="row">
-        <div class="col-md-8 col-md-push-2 col3">
-          <h1>Pedohandboek moet verboden worden</h1>
-          <h4 class="space2"><small><i>11 juni 2019</i></small></h4>
+        <div class="col-md-8 col-md-push-2">
+          <div class="jumbotron">
+            <h1>Pedohandboek moet verboden worden</h1>
+            <h4 class="space2"><small><i>11 juni 2019</i></small></h4>
 
-          <video src="../../MP4/pedohandboek.mp4" controls class="img-responsive"></video>
+            <video src="../../MP4/pedohandboek.mp4" controls class="img-responsive"></video>
 
-          <h4 class="space"><b>De Stichting Strijd tegen Misbruik eist dat een handboek voor kindermisbruik wordt verboden en dreigt naar de rechter te stappen. Op internet is het boekwerk te vinden, met daarin aanwijzingen om kinderen ongezien te misbruiken.</b></h4>
+            <h4 class="space"><b>De Stichting Strijd tegen Misbruik eist dat een handboek voor kindermisbruik wordt verboden en dreigt naar de rechter te stappen. Op internet is het boekwerk te vinden, met daarin aanwijzingen om kinderen ongezien te misbruiken.</b></h4>
 
-          <h4 class="space">Eerder zei minister Grapperhaus van Justitie dat juristen op zijn departement hebben gekeken naar het handboek, maar daarin geen strafbaar materiaal zien. De Stichting Strijd tegen Misbruik legt zich daar niet bij neer en stapt als het moet naar de rechter om een verbod af te dwingen. Eerder deed de stichting  al aangifte tegen pedofielenvereniging Martijn, die na een jarenlange juridische strijd van de stichting en rechtskundige Yme Drost werd verboden.</h4>
+            <h4 class="space">Eerder zei minister Grapperhaus van Justitie dat juristen op zijn departement hebben gekeken naar het handboek, maar daarin geen strafbaar materiaal zien. De Stichting Strijd tegen Misbruik legt zich daar niet bij neer en stapt als het moet naar de rechter om een verbod af te dwingen. Eerder deed de stichting  al aangifte tegen pedofielenvereniging Martijn, die na een jarenlange juridische strijd van de stichting en rechtskundige Yme Drost werd verboden.</h4>
 
-          <h3><b>Overeenkomsten</b></h3>
+            <h3><b>Overeenkomsten</b></h3>
 
-          <h4 class="space">Nu zien zij grote overeenkomsten tussen de informatie die binnen Martijn werd verdeeld en het handboek. Daarin wordt gedetailleerd beschreven wanneer wat voor seksuele handelingen kunnen worden verricht. Ook worden tips gegeven hoe kinderen kunnen worden benaderd en misbruik onopgemerkt kan blijven. Hoewel er tot nu toe over werd gesproken dat het handboek beschikbaar is op het darkweb, het verborgen deel van het internet, trof deze krant delen ervan ook op het reguliere internet aan, waar het eenvoudig is te vinden.</h4>
+            <h4 class="space">Nu zien zij grote overeenkomsten tussen de informatie die binnen Martijn werd verdeeld en het handboek. Daarin wordt gedetailleerd beschreven wanneer wat voor seksuele handelingen kunnen worden verricht. Ook worden tips gegeven hoe kinderen kunnen worden benaderd en misbruik onopgemerkt kan blijven. Hoewel er tot nu toe over werd gesproken dat het handboek beschikbaar is op het darkweb, het verborgen deel van het internet, trof deze krant delen ervan ook op het   reguliere internet aan, waar het eenvoudig is te vinden.</h4>
 
-          <h4 class="space">Drost noemt dat schandalig en vindt het ongelooflijk dat hij stuit op politieke onwil. ,,Als ouders in Nederland de inhoud van dit boek zouden kennen – overigens moeten ze het vooral niet lezen  – zou het land op zijn kop staan.’’</h4>
+            <h4 class="space">Drost noemt dat schandalig en vindt het ongelooflijk dat hij stuit op politieke onwil. ,,Als ouders in Nederland de inhoud van dit boek zouden kennen – overigens moeten ze het vooral niet lezen  – zou het land op zijn kop staan.’’</h4>
 
-          <h3><b>Verdrag</b></h3>
+            <h3><b>Verdrag</b></h3>
 
-          <h4 class="space">Ook in de strijd tegen Martijn werd in de politiek eerst weinig noodzaak gevoeld actie te ondernemen en zouden er te weinig mogelijkheden zijn voor een verbod. Drost benadrukt dat hij toen niet opgaf en ook nu vastbesloten is door te zetten. In Engeland is het boek al verboden. Drost zegt een beroep te kunnen doen op het verdrag van Lanzarote, waarin landen hebben afgesproken kinderen te beschermen tegen seksuele uitbuiting en seksueel misbruik.</h4>
+            <h4 class="space">Ook in de strijd tegen Martijn werd in de politiek eerst weinig noodzaak gevoeld actie te ondernemen en zouden er te weinig mogelijkheden zijn voor een verbod. Drost benadrukt dat hij toen niet opgaf en ook nu vastbesloten is door te zetten. In Engeland is het boek al verboden. Drost zegt een beroep te kunnen doen op het verdrag van Lanzarote, waarin landen hebben afgesproken kinderen te beschermen tegen seksuele uitbuiting en seksueel misbruik.</h4>
 
-          <h4 class="space">De stichting heeft de Tweede Kamer al aangeschreven om de beschikbaarheid van het handboek aan de kaak te stellen. Oprichter van de stichting Marcel Jeninga is van plan aangifte te doen, als er op een andere manier geen zaak kan worden gemaakt van de beschikbaarheid van het handboek.</h4>
+            <h4 class="space">De stichting heeft de Tweede Kamer al aangeschreven om de beschikbaarheid van het handboek aan de kaak te stellen. Oprichter van de stichting Marcel Jeninga is van plan aangifte te doen, als er op een andere manier geen zaak kan worden gemaakt van de beschikbaarheid van het handboek.</h4>
 
-          <img src="../../IMG/YmeDrost.jpg" class="img-responsive">
+            <img src="../../IMG/YmeDrost.jpg" class="img-responsive">
+          </div>
         </div>
       </div>
     </div>

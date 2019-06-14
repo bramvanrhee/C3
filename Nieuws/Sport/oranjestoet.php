@@ -54,43 +54,45 @@
 
     <div class="container">
       <div class="row">
-        <div class="col-md-8 col-md-push-2 col3">
-          <h1>Fransen roemen Oranjestoet: 'Dit heb ik nog nooit gezien'</h1>
-          <h4 class="space2"><small><i>11 juni 2019</i></small></h4>
+        <div class="col-md-8 col-md-push-2">
+          <div class="jumbotron">
+            <h1>Fransen roemen Oranjestoet: 'Dit heb ik nog nooit gezien'</h1>
+            <h4 class="space2"><small><i>11 juni 2019</i></small></h4>
 
-          <img src="../../IMG/oranjestoet.jpg" class="img-responsive">
+            <img src="../../IMG/oranjestoet.jpg" class="img-responsive">
 
-          <h4 class="space"><b>Een oude bus, rood-wit-blauwe vlaggen, harde muziek en vooral heel erg veel mensen uitgedost in oranje. Inwoners van het Franse Le Havre keken gisteren hun ogen uit toen duizenden Oranjefans in een stoet door de straten trokken. "Zoiets heb ik nog nooit gezien."</b></h4>
+            <h4 class="space"><b>Een oude bus, rood-wit-blauwe vlaggen, harde muziek en vooral heel erg veel mensen uitgedost in oranje. Inwoners van het Franse Le Havre keken gisteren hun ogen uit toen duizenden Oranjefans in een stoet door de straten trokken. "Zoiets heb ik nog nooit gezien."</b></h4>
 
-          <h4 class="space">De duizenden Oranjesupporters trokken gezamenlijk richting het stadion voor de eerste WK-wedstrijd tegen Nieuw-Zeeland. Nederland won op het nippertje, in blessuretijd. Maar zoals France Blue schrijft: 'De echte show vond niet plaats op het veld, maar op de tribune en buiten het stadion'.</h4>
+            <h4 class="space">De duizenden Oranjesupporters trokken gezamenlijk richting het stadion voor de eerste WK-wedstrijd tegen Nieuw-Zeeland. Nederland won op het nippertje, in blessuretijd. Maar zoals France Blue schrijft: 'De echte show vond niet plaats op het veld, maar op de tribune en buiten het stadion'.</h4>
 
-          <h3><b>Formidabel</b></h3>
+            <h3><b>Formidabel</b></h3>
 
-          <h4 class="space">Inwoners van Le Havre wisten namelijk niet wat ze zagen toen de stoet door hun stadje trok. "Formidabel", zegt één van de toeschouwers. "Al dat het oranje bij elkaar, het is prachtig om te zien." Indrukwekkend, noemt een ander het. "Dit is de eerste keer dat ik zoiets zie bij een voetbalwedstrijd."</h4>
+            <h4 class="space">Inwoners van Le Havre wisten namelijk niet wat ze zagen toen de stoet door hun stadje trok. "Formidabel", zegt één van de toeschouwers. "Al dat het oranje bij elkaar, het is prachtig om te zien." Indrukwekkend, noemt een ander het. "Dit is de eerste keer dat ik zoiets zie bij een voetbalwedstrijd."</h4>
 
-          <video src="../../MP4/oranjestoet1.mp4" controls class="img-responsive"></video>
+            <video src="../../MP4/oranjestoet1.mp4" controls class="img-responsive"></video>
 
-          <h4 class="space">Vooral het aantal mensen dat de Oranje Leeuwinnen komt supporteren, kan rekenen op waardering langs de kant. "Als er zoveel fans meereizen met een team, dan doe je toch iets goed", zegt een Fransman. "Volgens mij is dit ongekend in het vrouwenvoetbal." </h4>
+            <h4 class="space">Vooral het aantal mensen dat de Oranje Leeuwinnen komt supporteren, kan rekenen op waardering langs de kant. "Als er zoveel fans meereizen met een team, dan doe je toch iets goed", zegt een Fransman. "Volgens mij is dit ongekend in het vrouwenvoetbal." </h4>
 
-          <h3><b>Oranje voorpagina</b></h3>
+            <h3><b>Oranje voorpagina</b></h3>
 
-          <h4 class="space">Waar gisteren de straten oranje kleurden, zijn het vandaag de Franse kranten. Op de voorpagina van de lokale krant van Le Havre prijkt een grote foto van de 'oranje golf'. De krant schrijft: 'Het vrouwenelftal van Nederland is klaarblijkelijk heel erg populair.'</h4>
+            <h4 class="space">Waar gisteren de straten oranje kleurden, zijn het vandaag de Franse kranten. Op de voorpagina van de lokale krant van Le Havre prijkt een grote foto van de 'oranje golf'. De krant schrijft: 'Het vrouwenelftal van Nederland is klaarblijkelijk heel erg populair.'</h4>
 
-          <img src="../../IMG/oranjestoet1.jpg" class="img-responsive">
+            <img src="../../IMG/oranjestoet1.jpg" class="img-responsive">
 
-          <h4 class="space">Naast het grote aantal supporters, wordt vooral de sfeer geroemd. 'De Nederlanders verzorgen de ambiance in de straten hier wel', tekent website Maville op. Op Twitter laten aanwezige journalisten weten dat ze wel van het feestje van de Nederlandse fans kunnen genieten.</h4>
+            <h4 class="space">Naast het grote aantal supporters, wordt vooral de sfeer geroemd. 'De Nederlanders verzorgen de ambiance in de straten hier wel', tekent website Maville op. Op Twitter laten aanwezige journalisten weten dat ze wel van het feestje van de Nederlandse fans kunnen genieten.</h4>
 
-          <video src="../../MP4/oranjestoet.mp4" controls class="img-responsive"></video>
+            <video src="../../MP4/oranjestoet.mp4" controls class="img-responsive"></video>
 
-          <h3><b>'Van links naar rechts'</b></h3>
+            <h3><b>'Van links naar rechts'</b></h3>
 
-          <h4 class="space">De Franse krant L'Equipe verbaast zich over het feit dat alle mensen bij een bepaald liedje van links naar rechts springen: 'Soms stopt de bus, zodat alle mensen dezelfde simpele choreografie kunnen uitvoeren. Ze zingen: we gaan naar links, we gaan naar rechts.'</h4>
+            <h4 class="space">De Franse krant L'Equipe verbaast zich over het feit dat alle mensen bij een bepaald liedje van links naar rechts springen: 'Soms stopt de bus, zodat alle mensen dezelfde simpele choreografie kunnen uitvoeren. Ze zingen: we gaan naar links, we gaan naar rechts.'</h4>
 
-          <h4 class="space">Een Nederlandse legt het de Franse krant uit. "Dit deden we tijdens het EK in Nederland ook. Kun je je voorstellen dat 217.000 mensen zich zo verplaatsen? Dat was waanzin!"</h4>
+            <h4 class="space">Een Nederlandse legt het de Franse krant uit. "Dit deden we tijdens het EK in Nederland ook. Kun je je voorstellen dat 217.000 mensen zich zo verplaatsen? Dat was waanzin!"</h4>
 
-          <h3><b>Nog grotere stoet</b></h3>
+            <h3><b>Nog grotere stoet</b></h3>
 
-          <h4 class="space">Aanstaande zaterdag kunnen de Fransen in Valenciennes een nog grotere stoet tegemoet zien dan gisteren. In het stadion zitten namelijk zeker 13.000 Oranje-fans als Nederland tegen Kameroen speelt.</h4>
+            <h4 class="space">Aanstaande zaterdag kunnen de Fransen in Valenciennes een nog grotere stoet tegemoet zien dan gisteren. In het stadion zitten namelijk zeker 13.000 Oranje-fans als Nederland tegen Kameroen speelt.</h4>
+          </div>
         </div>
       </div>
     </div>
