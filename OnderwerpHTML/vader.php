@@ -11,6 +11,7 @@
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.3/css/all.css" integrity="sha384-UHRtZLI+pbxtHCWp1t77Bi1L4ZtiqrqD80Kn4Z8NTSRyMA2Fd33n5dQ8lWUE00s/" crossorigin="anonymous">
     <link rel="stylesheet" href="../CSS/main.css">
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.0/jquery.min.js"></script>
+    <script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
   </head>
   <body>
 
@@ -51,39 +52,84 @@
       </div>
     </nav>
 
-<!-- Slideshow -->
-    <div id="myCarousel" class="carousel slide" data-ride="carousel">
-
-      <ol class="carousel-indicators">
-        <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
-        <li data-target="#myCarousel" data-slide-to="1"></li>
-        <li data-target="#myCarousel" data-slide-to="2"></li>
-      </ol>
-
-      <div class="carousel-inner">
-        <div class="item active">
-          <img class="center-block" src="../IMG/test.jpg" style="width: 50%; height: 300px;">
+    <div class="container">
+      <div class="row">
+        <div class="col-md-8 center col-md-push-2 text-center">
+          <a href="https://oracle.com"><img src="../IMG/oracle.png" class="img-responsive"></a>
         </div>
-
-        <div class="item">
-          <img class="center-block" src="../IMG/test1.jpg" style="width: 50%; height: 300px;">
-        </div>
-
-        <div class="item">
-          <img class="center-block" src="../IMG/test.jpg" style="width: 50%; height: 300px;">
+      </div>
+      <div class="row">
+        <div class="col-md-12">
+          <h1>Mijn vader</h1>
         </div>
       </div>
 
-      <a class="left carousel-control" href="#myCarousel" data-slide="prev">
-        <span class="glyphicon glyphicon-chevron-left"></span>
-        <span class="sr-only">Previous</span>
-      </a>
-      <a class="right carousel-control" href="#myCarousel" data-slide="next">
-        <span class="glyphicon glyphicon-chevron-right"></span>
-        <span class="sr-only">Next</span>
-      </a>
-    </div>
+      <div class="row">
+        <div class="col-md-6">
+          <h3><b>Wie is mijn vader?</b></h3>
+          <h4 class="space">Mijn vader is een Oracle Ontwikkelaar, momenteel werkzaam bij MN.
+            Hij is jarig op 14 mei en komt uit 1970. Dat maakt hem 48 jaar oud.</h4>
 
+          <h3><b>Waar werkt mijn vader?</b></h3>
+          <h4 class="space">Mijn vader heeft op verschillende plekken gewerkt, zowel als zzp'er als in vaste dienst.
+            Op het moment werkt hij als zzp'er bij MN in Den Haag. MN is een bedrijf die zich bezig houdt met de financiële kant van het pensioenfonds van verschillende pensioenfondsen.</h4>
+
+          <h3><b>Het schoolverleden van mijn vader?</b></h3>
+          <h4 class="space"></h4>
+
+          <h3><b>Waar heeft mijn vader gewerkt?</b></h3>
+          <h4 class="space">Mijn vader heeft op verschillende plekken gewerkt, op de ene plek langer dan de andere. Dat komt door het risico die je loopt als zzp'er. Een bedrijf kan je makkelijker ontslaan als ze je niet meer nodig zijn.
+            Hij heeft gewerkt bij:
+            <ul>
+              <li>NCCW (juli 2004 - september 2005)</li>
+              <li>TKP Pensioen (september 2008 - januari 2009)</li>
+              <li>Eneco (maart 2009 - juni 2009)</li>
+              <li>CJIB (juli 2009 - september 2010)</li>
+              <li>GGZ Drenthe (september 2010 - oktober 2014)</li>
+              <li>Ahold (oktober 2014- februari 2016)</li>
+              <li>Alphabet (maart 2016 - september 2016)</li>
+              <li>DICTU (september 2016 - juni 2017)</li>
+              <li>MN (augustus 2017 - heden)</li>
+            </ul>
+            Ook heeft hij een eigen bedrijf (jobit), waarmee hij als zzp'er aan het werk is.</h4>
+        </div>
+
+        <div class="col-md-2 col-md-push-1">
+          <img src="../IMG/johan.jpg" class="img-responsive border" width="200px;">
+
+          <img src="../IMG/mn.png" class="img-responsive" width="200px;">
+
+          <img src="../IMG/hanze.png" class="img-responsive">
+          <img src="../IMG/nccw.png" class="img-responsive">
+        </div>
+
+        <div class="col-md-4 col-md-push-1 mycontent-right">
+          <div class="LI-profile-badge space"  data-version="v1" data-size="large" data-locale="nl_NL" data-type="vertical" data-theme="dark" data-vanity="bram-van-rhee-9b186a158"><a class="LI-simple-link" href='https://nl.linkedin.com/in/bram-van-rhee-9b186a158?trk=profile-badge'>Bram van Rhee</a></div>
+        </div>
+
+        <div class="col-md-2 col-md-push-1 mycontent-right">
+          <img src="../IMG/nccw.png" class="img-responsive space2" height="150px;">
+
+          <img src="../IMG/eneco.png" class="img-responsive space2" height="150px;">
+
+          <img src="../IMG/ggz.gif" class="img-responsive space2" height="150px;">
+
+          <img src="../IMG/alphabet.png" class="img-responsive space2" height="150px;">
+
+          <img src="../IMG/mn.png" class="img-responsive space2" height="150px;">
+        </div>
+
+        <div class="col-md-2 col-md-push-1">
+          <img src="../IMG/tkp.png" class="img-responsive space2" height="150px;">
+
+          <img src="../IMG/CJIB.png" class="img-responsive space2" height="150px;">
+
+          <img src="../IMG/ahold.png" class="img-responsive space2" height="150px;">
+
+          <img src="../IMG/DICTU.png" class="img-responsive space2" height="150px;">
+        </div>
+      </div>
+    </div>
 <!-- Footer -->
     <footer class="page-footer font-small">
       <div class="container text-md-left">
