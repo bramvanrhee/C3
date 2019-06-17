@@ -70,14 +70,7 @@
       <button type="submit" class="btn btn-default">Submit</button>
     </form>
 
-    <script>
-      $('form-control').hover(
-        function() {
-          $('.collapse').collapse('show');
-        }, function() {
-          $('.collapse').collapse('hide');
-        }
-      );
+    <script src="../JS/main.js">
     </script>
 
 <!-- Footer -->

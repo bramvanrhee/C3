@@ -37,7 +37,7 @@
                 <li><a href="../../NieuwsHTML/politiek.php">Politiek</a></li>
                 <li><a href="../../NieuwsHTML/sport.php">Sport</a></li>
               </ul>
-            <li class="active"><a href="../../HTML/form.php">Formulier</a></li>
+            <li><a href="../../HTML/form.php">Formulier</a></li>
             <li><a href="../../HTML/comment.php">Reacties</a></li>
             <li class="dropdown">
               <a href="#" class="dropdown-toggle" data-toggle="dropdown">Oracle <span class="caret"></span></a>

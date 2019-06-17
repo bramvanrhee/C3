@@ -105,107 +105,70 @@
 
 <!-- MD LG -->
       <div class="row">
-        <div class="col-md-4 visible-md visible-lg">
-          <div class="img"><a href="nieuws.php"><img src="../IMG/test1.jpg" class="img-responsive"></a></div>
-        </div>
-        <div class="col-md-4 visible-md visible-lg">
-          <div class="img"><a href="nieuws.php"><img src="../IMG/test.jpg" class="img-responsive"></a></div>
-        </div>
-        <div class="col-md-4 visible-md visible-lg">
-          <div class="img"><a href="nieuws.php"><img src="../IMG/test1.jpg" class="img-responsive"></a></div>
-        </div>
-      </div>
-
-
-      <div class="row">
-        <div class="col-md-4 visible-md visible-lg">
-          <div class="col1">Main</div>
-        </div>
-        <div class="col-md-4 visible-md visible-lg">
-          <div class="col1">Main</div>
-        </div>
-        <div class="col-md-4 visible-md visible-lg">
-          <div class="col1">Main</div>
-        </div>
-      </div>
-
-<!-- XS SM -->
-      <div class="row">
-        <div class="col-xs-12 visible-xs visible-sm">
-          <div class="img"><img src="../IMG/test1.jpg" class="img-responsive"></div>
-        </div>
-        <div class="col-xs-12 visible-xs visible-sm">
-          <div class="col1">Main</div>
-        </div>
-
-        <div class="col-xs-12 visible-xs visible-sm">
-          <div class="img"><img src="../IMG/test1.jpg" class="img-responsive"></div>
-        </div>
-      </div>
-
-      <div class="row">
-        <div class="col-xs-12 visible-xs visible-sm">
-          <div class="col1">Main</div>
-        </div>
-        <div class="col-xs-12 visible-xs visible-sm">
-          <div class="img"><img src="../IMG/test.jpg" class="img-responsive"></div>
-        </div>
-        <div class="col-xs-12 visible-xs visible-sm">
-          <div class="col1">Main</div>
-        </div>
+        <div class="col-md-4">
+          <div class="img border"><a href="../Nieuws/ICT/foldable.php"><img src="../IMG/ict1.jpg" class="img-responsive"></div>
+          <div class="carousel-caption">
+            <h2>Samsung's Foldable Phone</h2>
+          </div>
+        </a></div>
+        <div class="col-md-4">
+          <div class="img border"><a href="../Nieuws/ICT/philips.php"><img src="../IMG/ict2.jpg" class="img-responsive"></div>
+          <div class="carousel-caption">
+            <h2>Philips Hue</h2>
+          </div>
+        </a></div>
+        <div class="col-md-4">
+          <div class="img border"><a href="../Nieuws/ICT/google.php"><img src="../IMG/google.jpg" class="img-responsive"></div>
+          <div class="carousel-caption">
+            <h2>Google Stadia</h2>
+          </div>
+        </a></div>
       </div>
 
 <!-- MD LG -->
       <div class="row">
-        <div class="col-md-4 visible-md visible-lg">
-          <div class="img"><img src="../IMG/test1.jpg" class="img-responsive"></div>
-        </div>
-        <div class="col-md-4 visible-md visible-lg">
-          <div class="img"><img src="../IMG/test.jpg" class="img-responsive"></div>
-        </div>
-        <div class="col-md-4 visible-md visible-lg">
-          <div class="img"><img src="../IMG/test1.jpg" class="img-responsive"></div>
-        </div>
-      </div>
+        <div class="col-md-4">
+          <div class="img border"><a href="../Nieuws/Politiek/klimaat.php"><img src="../IMG/klimaat.jpg" class="img-responsive"></div>
+          <div class="carousel-caption">
+            <h2>Klimaat Demonstratie</h2>
+          </div>
+        </a></div>
+        <div class="col-md-4">
+          <div class="img border"><a href="../Nieuws/Politiek/wilders.php"><img src="../IMG/wilders1.jpg" class="img-responsive"></div>
+          <div class="carousel-caption">
+            <h2>Wilders</h2>
+          </div>
+        </a></div>
+        <div class="col-md-4">
+          <div class="img border"><a href="../Nieuws/Politiek/sp.php"><img src="../IMG/sp1.jpg" class="img-responsive"></div>
+          <div class="carousel-caption">
+            <h2>SP</h2>
+          </div>
+        </a></div>
 
+<!-- MD LG -->
       <div class="row">
-        <div class="col-md-4 visible-md visible-lg">
-          <div class="col1"></div>
-        </div>
-        <div class="col-md-4 visible-md visible-lg">
-          <div class="col1"></div>
-        </div>
-        <div class="col-md-4 visible-md visible-lg">
-          <div class="col1"></div>
-        </div>
+        <div class="col-md-4">
+          <div class="img border"><a href="../Nieuws/Sport/oranjestoet.php"><img src="../IMG/oranjestoet.jpg" class="img-responsive"></div>
+          <div class="carousel-caption">
+            <h2>Fransen Roemen Oranjestoet</h2>
+          </div>
+        </a></div>
+        <div class="col-md-4">
+          <div class="img border"><a href="../Nieuws/Sport/froome.php"><img src="../IMG/froome.jpeg" class="img-responsive"></div>
+          <div class="carousel-caption">
+            <h2>Chris Froome</h2>
+          </div>
+        </a></div>
+        <div class="col-md-4">
+          <div class="img border"><a href="../Nieuws/Sport/sjinkie.php"><img src="../IMG/sjinkie.jpg" class="img-responsive"></div>
+          <div class="carousel-caption">
+            <h2>Terug Op Het Ijs</h2>
+          </div>
+        </a></div>
       </div>
-    </div>
 
-<!-- XS SM -->
-    <div class="row">
-      <div class="col-xs-12 visible-xs visible-sm">
-        <div class="img"><img src="../IMG/test1.jpg" class="img-responsive"></div>
-      </div>
-      <div class="col-xs-12 visible-xs visible-sm">
-        <div class="col1">Main</div>
-      </div>
-      <div class="col-xs-12 visible-xs visible-sm">
-        <div class="img"><img src="../IMG/test1.jpg" class="img-responsive"></div>
-      </div>
-    </div>
 
-    <div class="row">
-      <div class="col-xs-12 visible-xs visible-sm">
-        <div class="col1">Main</div>
-      </div>
-      <div class="col-xs-12 visible-xs visible-sm">
-        <div class="img"><img src="../IMG/test.jpg" class="img-responsive"></div>
-      </div>
-      <div class="col-xs-12 visible-xs visible-sm">
-        <div class="col1">Main</div>
-      </div>
-    </div>
-  </div>
 
 <!-- Categories -->
     <div class="container">
