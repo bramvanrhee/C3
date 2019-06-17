@@ -68,3 +68,7 @@ a {
 .space2 {
   margin-bottom: 25px;
 }
+
+.mycontent-right {
+  border-left: 1px solid black;
+}

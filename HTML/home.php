@@ -210,8 +210,13 @@
 <!-- Categories -->
     <div class="container">
       <div class="list-group">
-        <a href="nieuws.html" class="list-group-item well well-sm">Nieuws</h4><span class="badge">12</span></a>
-        <a href="form.html" class="list-group-item well well-sm">Comments <span class="badge">5</span></a>
+        <a href="#open" data-toggle="collapse" class="list-group-item well well-sm">Nieuws</h4><span class="badge">15</span></a>
+        <div id="open" class="collapse">
+          <a href="ict.php" class="list-group-item well well-sm">Tech <span class="badge">5</span></a>
+          <a href="politiek.php" class="list-group-item well well-sm">Politiek <span class="badge">5</span></a>
+          <a href="sport.php" class="list-group-item well well-sm">Sport <span class="badge">5</span></a><br>
+        </div>
+        <a href="comment.php" class="list-group-item well well-sm">Comments <span class="badge">8</span></a>
         <a href="#" class="list-group-item well well-sm">Warnings <span class="badge">3</span></a>
       </div>
     </div>
