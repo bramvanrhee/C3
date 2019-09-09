@@ -5,7 +5,9 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
-    <title>Tijdelijk</title>
+    <title>Politiek</title>
+
+    <link rel="shortcut icon" href="../../IMG/favicon.png">
 
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.3/css/all.css" integrity="sha384-UHRtZLI+pbxtHCWp1t77Bi1L4ZtiqrqD80Kn4Z8NTSRyMA2Fd33n5dQ8lWUE00s/" crossorigin="anonymous">
@@ -61,13 +63,20 @@
 
             <video src="../../MP4/wilders.mp4" controls class="img-responsive"></video>
 
-            <h4 class="space"><b>Er komt voorlopig geen parlementaire enquête naar mogelijke bemoeienis van het ministerie van Justitie en Veiligheid met de rechtszaak tegen Geert Wilders. De meesten van Wilders' collega's in de Tweede Kamer steunen zo'n diepgaand onderzoek niet.</b></h4>
+            <h4 class="space"><b>Er komt voorlopig geen parlementaire enquête naar mogelijke bemoeienis
+              van het ministerie van Justitie en Veiligheid met de rechtszaak tegen Geert Wilders.
+              De meesten van Wilders' collega's in de Tweede Kamer steunen zo'n diepgaand onderzoek niet.</b></h4>
 
-            <h4 class="space">Wilders denkt dat toenmalig minister Ivo Opstelten het Openbaar Ministerie heeft gemaand de PVV-leider te vervolgen voor zijn uitlatingen over ‘Minder Marokkanen’. Hij schermt met een nieuwe verklaring van een ambtenaar, die zou beweren dat zelf van Opstelten te hebben gehoord.</h4>
+            <h4 class="space">Wilders denkt dat toenmalig minister Ivo Opstelten het Openbaar Ministerie heeft gemaand
+              de PVV-leider te vervolgen voor zijn uitlatingen over ‘Minder Marokkanen’.
+              Hij schermt met een nieuwe verklaring van een ambtenaar, die zou beweren dat zelf van Opstelten te hebben gehoord.</h4>
 
-            <h4 class="space">Daardoor is de rechtszaak ‘een politiek proces’ en een ‘afrekening met een politiek leider van de oppositie’ gebleken, vindt Wilders. Het proces moet dan ook meteen worden gestaakt en de Kamer moet een enquête instellen.</h4>
+            <h4 class="space">Daardoor is de rechtszaak ‘een politiek proces’
+              en een ‘afrekening met een politiek leider van de oppositie’ gebleken, vindt Wilders.
+              Het proces moet dan ook meteen worden gestaakt en de Kamer moet een enquête instellen.</h4>
 
-            <h4 class="space">Maar daarvoor vinden onder andere VVD, CDA, GroenLinks, SP, ChristenUnie en 50Plus het te vroeg. Zij willen eerst de rechter laten spreken. Forum voor Democratie steunt de oproep van Wilders ‘uiteraard’ wel.</h4>
+            <h4 class="space">Maar daarvoor vinden onder andere VVD, CDA, GroenLinks, SP, ChristenUnie en 50Plus het te vroeg.
+              Zij willen eerst de rechter laten spreken. Forum voor Democratie steunt de oproep van Wilders ‘uiteraard’ wel.</h4>
 
             <h4 class="space">De Kamer kan bij een enquête betrokkenen verplichten onder ede hun verhaal te komen doen.</h4>
 
@@ -86,7 +95,7 @@
             <h5 class="font-weight-bold text-uppercase">Algemene info</h5>
               <p>Uw bevind zich op een nieuwssite, met veel onderwerpen gerelateerd aan ICT.</p>
               <p>Er wordt 1 onderwerp behandeld, genaamd Oracle. Ondergedeeld in:</p>
-              <p><a href="wat.php">Wat is Oracle, </a><a href="vader.php">Mijn vader, </a>en <a href="geschiedenis.php">De geschiedenis</a></p>
+              <p><a href="../../OnderwerpHTML/wat.php">Wat is Oracle, </a><a href="../../OnderwerpHTML/vader.php">Mijn vader, </a>en <a href="../../OnderwerpHTML/geschiedenis.php">De geschiedenis</a></p>
           </div>
 
           <div class="hidden-mg hidden-lg">
@@ -97,16 +106,16 @@
             <h5 class="font-weight-bold text-uppercase">Pagina's</h5>
             <ul class="list-unstyled text-uppercase">
               <li>
-                <p><a href="home.php">Home</a></p>
+                <p><a href="../../HTML/home.php">Home</a></p>
               </li>
               <li>
-                <p><a href="nieuws.php">Nieuws</a></p>
+                <p><a href="../../NieuwsHTML/ict.php">Nieuws</a></p>
               </li>
               <li>
-                <p><a href="form.php">Formulier</a></p>
+                <p><a href="../../HTML/form.php">Formulier</a></p>
               </li>
               <li>
-                <p><a href="comment.php">Reacties</a></p>
+                <p><a href="../../HTML/comment.php">Reacties</a></p>
               </li>
             </ul>
           </div>
@@ -124,11 +133,11 @@
               </li>
               <li>
                 <p>
-                  <i class="fas fa-envelope"></i> support@bramvanrhee.nl</p>
+                  <i class="fas fa-envelope"></i> <a href="mailto:support@bramvanrhee.nl">support@bramvanrhee.nl</a></p>
               </li>
               <li>
                 <p>
-                  <i class="fas fa-phone"></i> 06-23775886</p>
+                  <i class="fas fa-phone"></i> <a href="tel:06-23775886">06-23775886</a></p>
               </li>
             </ul>
           </div>
@@ -140,31 +149,31 @@
           <div class="col-md-2 col-lg-2 text-center">
             <h5 class="font-weight-bold text-uppercase">Volg ons</h5>
             <ul class="list-unstyled hidden-xs hidden-sm">
-              <li><a type="button" class="btn-floating btn-fb">
+              <li><a type="button" href="https://www.facebook.com/bram.vanrhee.1?ref=bookmarks" class="btn-floating btn-fb">
                 <i class="fab fa-facebook-square fa-2x"></i>
               </a></li>
-              <li><a type="button" class="btn-floating btn-tw">
+              <li><a type="button" href="https://twitter.com/bramvanrhee1?lang=nl" class="btn-floating btn-tw">
                 <i class="fab fa-twitter-square fa-2x"></i>
               </a></li>
-              <li><a type="button" class="btn-floating btn-gplus">
+              <li><a type="button" href="https://www.linkedin.com/in/bram-van-rhee-9b186a158/?originalSubdomain=nl" class="btn-floating btn-gplus">
                 <i class="fab fa-linkedin fa-2x"></i>
               </a></li>
-              <li><a type="button" class="btn-floating btn-gplus">
+              <li><a type="button" href="https://www.instagram.com/bramvanrhee/?hl=da" class="btn-floating btn-gplus">
                 <i class="fab fa-instagram fa-2x"></i>
               </a></li>
             </ul>
 
-            <ul class="list-unstyled list-inline visible-xs visible-sm"
-              <li><a type="button" class="btn-floating btn-fb">
+            <ul class="list-unstyled list-inline visible-xs visible-sm">
+              <li><a type="button" href="https://www.facebook.com/bram.vanrhee.1?ref=bookmarks" class="btn-floating btn-fb">
                 <i class="fab fa-facebook-square fa-2x"></i>
               </a></li>
-              <li><a type="button" class="btn-floating btn-tw">
+              <li><a type="button" href="https://twitter.com/bramvanrhee1?lang=nl" class="btn-floating btn-tw">
                 <i class="fab fa-twitter-square fa-2x"></i>
               </a></li>
-              <li><a type="button" class="btn-floating btn-gplus">
+              <li><a type="button" href="https://www.linkedin.com/in/bram-van-rhee-9b186a158/?originalSubdomain=nl" class="btn-floating btn-gplus">
                 <i class="fab fa-linkedin fa-2x"></i>
               </a></li>
-              <li><a type="button" class="btn-floating btn-gplus">
+              <li><a type="button" href="https://www.instagram.com/bramvanrhee/?hl=da" class="btn-floating btn-gplus">
                 <i class="fab fa-instagram fa-2x"></i>
               </a></li>
             </ul>

@@ -5,7 +5,9 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
-    <title>Tijdelijk</title>
+    <title>Mijn Vader</title>
+
+    <link rel="shortcut icon" href="../IMG/favicon.png">
 
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.3/css/all.css" integrity="sha384-UHRtZLI+pbxtHCWp1t77Bi1L4ZtiqrqD80Kn4Z8NTSRyMA2Fd33n5dQ8lWUE00s/" crossorigin="anonymous">
@@ -65,20 +67,19 @@
       </div>
 
       <div class="row">
-        <div class="col-md-6">
+        <div class="col-md-6 col-sm-6">
           <h3><b>Wie is mijn vader?</b></h3>
           <h4 class="space">Mijn vader is een Oracle Ontwikkelaar, momenteel werkzaam bij MN.
             Hij is jarig op 14 mei en komt uit 1970. Dat maakt hem 48 jaar oud.</h4>
 
           <h3><b>Waar werkt mijn vader?</b></h3>
           <h4 class="space">Mijn vader heeft op verschillende plekken gewerkt, zowel als zzp'er als in vaste dienst.
-            Op het moment werkt hij als zzp'er bij MN in Den Haag. MN is een bedrijf die zich bezig houdt met de financiële kant van het pensioenfonds van verschillende pensioenfondsen.</h4>
-
-          <h3><b>Het schoolverleden van mijn vader?</b></h3>
-          <h4 class="space"></h4>
+            Op het moment werkt hij als zzp'er bij MN in Den Haag.
+            MN is een bedrijf die zich bezig houdt met de financiële kant van het pensioenfonds van verschillende pensioenfondsen.</h4>
 
           <h3><b>Waar heeft mijn vader gewerkt?</b></h3>
-          <h4 class="space">Mijn vader heeft op verschillende plekken gewerkt, op de ene plek langer dan de andere. Dat komt door het risico die je loopt als zzp'er. Een bedrijf kan je makkelijker ontslaan als ze je niet meer nodig zijn.
+          <h4 class="space">Mijn vader heeft op verschillende plekken gewerkt, op de ene plek langer dan de andere.
+            Dat komt door het risico die je loopt als zzp'er. Een bedrijf kan je makkelijker ontslaan als ze je niet meer nodig zijn.
             Hij heeft gewerkt bij:
             <ul>
               <li>NCCW (juli 2004 - september 2005)</li>
@@ -94,7 +95,7 @@
             Ook heeft hij een eigen bedrijf (jobit), waarmee hij als zzp'er aan het werk is.</h4>
         </div>
 
-        <div class="col-md-2 col-md-push-1">
+        <div class="col-md-2 col-sm-2 col-md-push-1 col-sm-push-1 hidden-sm hidden-xs">
           <img src="../IMG/johan.jpg" class="img-responsive border" width="200px;">
 
           <img src="../IMG/mn.png" class="img-responsive" width="200px;">
@@ -103,11 +104,11 @@
           <img src="../IMG/nccw.png" class="img-responsive">
         </div>
 
-        <div class="col-md-4 col-md-push-1 mycontent-right">
+        <div class="col-md-4 col-sm-4 col-md-push-1 col-sm-push-1 mycontent-right hidden-xs">
           <div class="LI-profile-badge space"  data-version="v1" data-size="large" data-locale="nl_NL" data-type="vertical" data-theme="dark" data-vanity="bram-van-rhee-9b186a158"><a class="LI-simple-link" href='https://nl.linkedin.com/in/bram-van-rhee-9b186a158?trk=profile-badge'>Bram van Rhee</a></div>
         </div>
 
-        <div class="col-md-2 col-md-push-1 mycontent-right">
+        <div class="col-md-2 col-sm-2 col-md-push-1 col-sm-push-1 mycontent-right hidden-sm hidden-xs">
           <img src="../IMG/nccw.png" class="img-responsive space2" height="150px;">
 
           <img src="../IMG/eneco.png" class="img-responsive space2" height="150px;">
@@ -119,7 +120,7 @@
           <img src="../IMG/mn.png" class="img-responsive space2" height="150px;">
         </div>
 
-        <div class="col-md-2 col-md-push-1">
+        <div class="col-md-2 col-sm-2 col-md-push-1 col-mdd-push-1 hidden-sm hidden-xs">
           <img src="../IMG/tkp.png" class="img-responsive space2" height="150px;">
 
           <img src="../IMG/CJIB.png" class="img-responsive space2" height="150px;">
@@ -130,6 +131,7 @@
         </div>
       </div>
     </div>
+
 <!-- Footer -->
     <footer class="page-footer font-small">
       <div class="container text-md-left">
@@ -146,23 +148,21 @@
             <hr>
           </div>
 
-          <div class="col-md-2 col-lg-2 text-left">
-            <h5 class="font-weight-bold text-uppercase">Pagina's</h5>
-            <ul class="list-unstyled text-uppercase">
-              <li>
-                <p><a href="home.php">Home</a></p>
-              </li>
-              <li>
-                <p><a href="nieuws.php">Nieuws</a></p>
-              </li>
-              <li>
-                <p><a href="form.php">Formulier</a></p>
-              </li>
-              <li>
-                <p><a href="comment.php">Reacties</a></p>
-              </li>
-            </ul>
-          </div>
+          <ul class="list-unstyled list-inline visible-xs visible-sm">
+            <li><a type="button" href="https://www.facebook.com/bram.vanrhee.1?ref=bookmarks" class="btn-floating btn-fb">
+              <i class="fab fa-facebook-square fa-2x"></i>
+            </a></li>
+            <li><a type="button" href="https://twitter.com/bramvanrhee1?lang=nl" class="btn-floating btn-tw">
+              <i class="fab fa-twitter-square fa-2x"></i>
+            </a></li>
+            <li><a type="button" href="https://www.linkedin.com/in/bram-van-rhee-9b186a158/?originalSubdomain=nl" class="btn-floating btn-gplus">
+              <i class="fab fa-linkedin fa-2x"></i>
+            </a></li>
+            <li><a type="button" href="https://www.instagram.com/bramvanrhee/?hl=da" class="btn-floating btn-gplus">
+              <i class="fab fa-instagram fa-2x"></i>
+            </a></li>
+          </ul>
+        </div>
 
           <div class="hidden-mg hidden-lg">
             <hr>
@@ -193,16 +193,16 @@
           <div class="col-md-2 col-lg-2 text-center">
             <h5 class="font-weight-bold text-uppercase">Volg ons</h5>
             <ul class="list-unstyled hidden-xs hidden-sm">
-              <li><a type="button" class="btn-floating btn-fb">
+              <li><a type="button" href="https://www.facebook.com/bram.vanrhee.1?ref=bookmarks" class="btn-floating btn-fb">
                 <i class="fab fa-facebook-square fa-2x"></i>
               </a></li>
-              <li><a type="button" class="btn-floating btn-tw">
+              <li><a type="button" href="https://twitter.com/bramvanrhee1?lang=nl" class="btn-floating btn-tw">
                 <i class="fab fa-twitter-square fa-2x"></i>
               </a></li>
-              <li><a type="button" class="btn-floating btn-gplus">
+              <li><a type="button" href="https://www.linkedin.com/in/bram-van-rhee-9b186a158/?originalSubdomain=nl" class="btn-floating btn-gplus">
                 <i class="fab fa-linkedin fa-2x"></i>
               </a></li>
-              <li><a type="button" class="btn-floating btn-gplus">
+              <li><a type="button" href="https://www.instagram.com/bramvanrhee/?hl=da" class="btn-floating btn-gplus">
                 <i class="fab fa-instagram fa-2x"></i>
               </a></li>
             </ul>

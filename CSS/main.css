@@ -30,12 +30,12 @@ footer {
 
 .col2 {
   margin-top: 100px;
-  height: 200px;
+  height: cover;
   border: 10px solid black;
 }
 
 .img {
-  margin-top: 100px;
+  margin-top: 20px;
   background-color: white;
   height: 200px;
 }
@@ -47,6 +47,10 @@ footer {
   padding-bottom: 25px;
   border-radius: 4px;
   margin-right: 20px;
+}
+
+.bottom {
+  margin-top: 230px;
 }
 
 .top {

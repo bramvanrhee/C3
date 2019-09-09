@@ -5,7 +5,9 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
-    <title>Tijdelijk</title>
+    <title>Wat Is Oracle</title>
+
+    <link rel="shortcut icon" href="../IMG/favicon.png">
 
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.3/css/all.css" integrity="sha384-UHRtZLI+pbxtHCWp1t77Bi1L4ZtiqrqD80Kn4Z8NTSRyMA2Fd33n5dQ8lWUE00s/" crossorigin="anonymous">
@@ -61,42 +63,65 @@
         <div class="col-md-6">
           <h1>Oracle Corporation</h1>
 
-          <h3><b><a href="#wat" data-toggle="collapse">Wat is oracle Corporation?</a></b></h3>
+          <h3><b>Wat is oracle Corporation?</b></h3>
 
-          <div id="wat" class="collapse"><h4 class="space">Oracle Corporation is een Amerikaans softwarebedrijf genoteerd aan de New York Stock Exchange. Het bedrijf heeft wereldwijd meer dan 130.000 werknemers. Oprichter Larry Ellison is voorzitter van het bedrijf. Het hoofdkantoor is in Redwood City (Californië).</h4></div>
+          <h4 class="space">Oracle Corporation is een Amerikaans softwarebedrijf genoteerd aan de New York Stock Exchange.
+            Het bedrijf heeft wereldwijd meer dan 130.000 werknemers. Oprichter Larry Ellison is voorzitter van het bedrijf.
+            Het hoofdkantoor is in Redwood City (Californië).</h4>
 
-          <h3><b><a href="#activiteiten" data-toggle="collapse">Activiteiten</a></b></h3>
+          <h3><b>Activiteiten</b></h3>
 
-          <div id="activiteiten" class="collapse"><h4 class="space">Oracle Corporation is vooral bekend vanwege zijn databasesysteem Oracle. Tegenwoordig begeeft het zich, zeker na de overname van BEA Systems, ook steeds meer op de middleware markt. Naast databases is Oracle Corporation ook een van de grootste leveranciers van bedrijfssoftware verzameld onder de naam Oracle E-Business Suite (ERP-/CRM-pakket). De belangrijkste productgroepen van Oracle Corporation zijn:<br><br>
+          <h4 class="space">Oracle Corporation is vooral bekend vanwege zijn databasesysteem Oracle.
+            Tegenwoordig begeeft het zich, zeker na de overname van BEA Systems, ook steeds meer op de middleware markt.
+            Naast databases is Oracle Corporation ook een van de grootste leveranciers
+            van bedrijfssoftware verzameld onder de naam Oracle E-Business Suite (ERP-/CRM-pakket).
+            De belangrijkste productgroepen van Oracle Corporation zijn:<br><br>
             <ul>
               <li>Databases, o.a. Oracle 11g, Berkeley DB, InnoDB, Java DB, MySQL, Oracle Rdb, TimesTen.</li>
               <li>Developer Tools</li>
               <li>Oracle Fusion Middleware</li>
               <li>E-Business Suite (ERP/CRM pakket)</li>
             </ul>
-          </h4></div>
+          </h4>
 
-          <h3><b><a href="#open" data-toggle="collapse">Open Source</a></b></h3>
+          <h3><b>Open Source</b></h3>
 
-          <div id="open" class="collapse"><h4 class="space">
+          <h4 class="space">
             <ul>
-              <li>Linux in het bedrijf - Oracle Database is nummer 1 als het om Linux gaat, met een marktaandeel van 82,6%, en Oracle Unbreakable Linux biedt kwaliteitsondersteuning voor Linux.</li>
-              <li>Eclipse - Oracle is lid van de raad van bestuur en strategisch ontwikkelaar van Eclipse, en heeft Oracle TopLink gegeven aan de open-sourcegemeenschap. Daarnaast levert Oracle ontwikkelaars en managers voor drie projecten van Eclipse: Dali JPA Tools, JavaServer Faces (JSF) en BPEL.</li>
-              <li>Vereenvoudiging van de ontwikkeling van PHP.</li>
-              <li>Open source - toolingprojecten - Oracle levert een bijdrage aan diverse toolingprojecten, zoals Project Trinidad (ADF Faces), Eclipse, Spring en SASH.</li>
-              <li>ntegratie in Berkeley DB - Berkeley DB van Oracle is de meest algemeen gebruikte open-sourcedatabase ter wereld; het aantal implementaties wordt geschat op meer dan 200 miljoen.</li>
-              <li>InnoDB, ontwikkeld door Innobase Oy, een dochteronderneming van Oracle, en een transactional storage engine voor de populaire database MySQL.</li>
+              <li>Linux in het bedrijf - Oracle Database is nummer 1 als het om Linux gaat, met een marktaandeel van 82,6%,
+                en Oracle Unbreakable Linux biedt kwaliteitsondersteuning voor Linux.</li><br>
+
+              <li>Eclipse - Oracle is lid van de raad van bestuur en strategisch ontwikkelaar van Eclipse,
+                en heeft Oracle TopLink gegeven aan de open-sourcegemeenschap.
+                Daarnaast levert Oracle ontwikkelaars en managers voor drie projecten van Eclipse: Dali JPA Tools,
+                JavaServer Faces (JSF) en BPEL.</li><br>
+
+              <li>Vereenvoudiging van de ontwikkeling van PHP.</li><br>
+
+              <li>Open source - toolingprojecten - Oracle levert een bijdrage aan diverse toolingprojecten,
+                zoals Project Trinidad (ADF Faces), Eclipse, Spring en SASH.</li><br>
+
+              <li>ntegratie in Berkeley DB - Berkeley DB van Oracle is de meest algemeen gebruikte open-sourcedatabase ter wereld;
+                het aantal implementaties wordt geschat op meer dan 200 miljoen.</li><br>
+
+              <li>InnoDB, ontwikkeld door Innobase Oy, een dochteronderneming van Oracle,
+                en een transactional storage engine voor de populaire database MySQL.</li><br>
             </ul>
-          </h4></div>
+          </h4>
         </div>
+
         <div class="col-md-6">
           <h1>Oracle Database</h1>
 
-          <h3><b><a href="#database" data-toggle="collapse">Wat is Oracle Database</a></b></h3>
+          <h3><b>Wat is Oracle Database</a></b></h3>
 
-          <div id="database" class="collapse"><h4 class="space">Oracle Database is een databasemanagementsysteem (RDBMS) en vlaggenschip van Oracle. Oracle RDBMS was de eerste database gebaseerd op het System/R-model van IBM en de eerste relationele database die gebruikmaakt van SQL. Er is ondersteuning voor een groot aantal besturingssystemen.</h4>
+          <h4 class="space">Oracle Database is een databasemanagementsysteem (RDBMS) en vlaggenschip van Oracle. Oracle RDBMS was de eerste database gebaseerd op het System/R-model van IBM en de eerste relationele database die gebruikmaakt van SQL. Er is ondersteuning voor een groot aantal besturingssystemen.</h4>
 
-          <h4 class="space">Oracle heeft in de loop der tijd een 'eigen' ERP-lijn opgebouwd welke bekend is onder de naam Oracle E-Business Suite. Met deze standaardsoftware kunnen de ondersteunende processen in organisaties worden beheerd.</h4></div>
+          <h4 class="space">Oracle heeft in de loop der tijd een 'eigen' ERP-lijn opgebouwd welke bekend is onder de naam Oracle E-Business Suite. Met deze standaardsoftware kunnen de ondersteunende processen in organisaties worden beheerd.</h4>
+
+          <img src="../IMG/database.png" class="img-responsive center-block">
+
+          <img src="../IMG/marketing.png" class="img-responsive center-block">
         </div>
       </div>
     </div>
@@ -121,16 +146,16 @@
             <h5 class="font-weight-bold text-uppercase">Pagina's</h5>
             <ul class="list-unstyled text-uppercase">
               <li>
-                <p><a href="home.php">Home</a></p>
+                <p><a href="../HTML/home.php">Home</a></p>
               </li>
               <li>
-                <p><a href="nieuws.php">Nieuws</a></p>
+                <p><a href="../NieuwsHTML/ict.php">Nieuws</a></p>
               </li>
               <li>
-                <p><a href="form.php">Formulier</a></p>
+                <p><a href="../HTML/form.php">Formulier</a></p>
               </li>
               <li>
-                <p><a href="comment.php">Reacties</a></p>
+                <p><a href="../HTML/comment.php">Reacties</a></p>
               </li>
             </ul>
           </div>
@@ -164,31 +189,31 @@
           <div class="col-md-2 col-lg-2 text-center">
             <h5 class="font-weight-bold text-uppercase">Volg ons</h5>
             <ul class="list-unstyled hidden-xs hidden-sm">
-              <li><a type="button" class="btn-floating btn-fb">
+              <li><a type="button" href="https://www.facebook.com/bram.vanrhee.1?ref=bookmarks" class="btn-floating btn-fb">
                 <i class="fab fa-facebook-square fa-2x"></i>
               </a></li>
-              <li><a type="button" class="btn-floating btn-tw">
+              <li><a type="button" href="https://twitter.com/bramvanrhee1?lang=nl" class="btn-floating btn-tw">
                 <i class="fab fa-twitter-square fa-2x"></i>
               </a></li>
-              <li><a type="button" class="btn-floating btn-gplus">
+              <li><a type="button" href="https://www.linkedin.com/in/bram-van-rhee-9b186a158/?originalSubdomain=nl" class="btn-floating btn-gplus">
                 <i class="fab fa-linkedin fa-2x"></i>
               </a></li>
-              <li><a type="button" class="btn-floating btn-gplus">
+              <li><a type="button" href="https://www.instagram.com/bramvanrhee/?hl=da" class="btn-floating btn-gplus">
                 <i class="fab fa-instagram fa-2x"></i>
               </a></li>
             </ul>
 
-            <ul class="list-unstyled list-inline visible-xs visible-sm"
-              <li><a type="button" class="btn-floating btn-fb">
+            <ul class="list-unstyled list-inline visible-xs visible-sm">
+              <li><a type="button" href="https://www.facebook.com/bram.vanrhee.1?ref=bookmarks" class="btn-floating btn-fb">
                 <i class="fab fa-facebook-square fa-2x"></i>
               </a></li>
-              <li><a type="button" class="btn-floating btn-tw">
+              <li><a type="button" href="https://twitter.com/bramvanrhee1?lang=nl" class="btn-floating btn-tw">
                 <i class="fab fa-twitter-square fa-2x"></i>
               </a></li>
-              <li><a type="button" class="btn-floating btn-gplus">
+              <li><a type="button" href="https://www.linkedin.com/in/bram-van-rhee-9b186a158/?originalSubdomain=nl" class="btn-floating btn-gplus">
                 <i class="fab fa-linkedin fa-2x"></i>
               </a></li>
-              <li><a type="button" class="btn-floating btn-gplus">
+              <li><a type="button" href="https://www.instagram.com/bramvanrhee/?hl=da" class="btn-floating btn-gplus">
                 <i class="fab fa-instagram fa-2x"></i>
               </a></li>
             </ul>

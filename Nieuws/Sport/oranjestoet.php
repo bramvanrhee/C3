@@ -5,7 +5,9 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
-    <title>Tijdelijk</title>
+    <title>Sport</title>
+
+    <link rel="shortcut icon" href="../../IMG/favicon.png">
 
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.3/css/all.css" integrity="sha384-UHRtZLI+pbxtHCWp1t77Bi1L4ZtiqrqD80Kn4Z8NTSRyMA2Fd33n5dQ8lWUE00s/" crossorigin="anonymous">
@@ -61,37 +63,54 @@
 
             <img src="../../IMG/oranjestoet.jpg" class="img-responsive">
 
-            <h4 class="space"><b>Een oude bus, rood-wit-blauwe vlaggen, harde muziek en vooral heel erg veel mensen uitgedost in oranje. Inwoners van het Franse Le Havre keken gisteren hun ogen uit toen duizenden Oranjefans in een stoet door de straten trokken. "Zoiets heb ik nog nooit gezien."</b></h4>
+            <h4 class="space"><b>Een oude bus, rood-wit-blauwe vlaggen, harde muziek en vooral heel erg veel mensen uitgedost in oranje.
+              Inwoners van het Franse Le Havre keken gisteren hun ogen uit toen duizenden Oranjefans in een stoet door de straten trokken.
+              "Zoiets heb ik nog nooit gezien."</b></h4>
 
-            <h4 class="space">De duizenden Oranjesupporters trokken gezamenlijk richting het stadion voor de eerste WK-wedstrijd tegen Nieuw-Zeeland. Nederland won op het nippertje, in blessuretijd. Maar zoals France Blue schrijft: 'De echte show vond niet plaats op het veld, maar op de tribune en buiten het stadion'.</h4>
+            <h4 class="space">De duizenden Oranjesupporters trokken gezamenlijk richting het stadion voor de eerste WK-wedstrijd
+              tegen Nieuw-Zeeland. Nederland won op het nippertje, in blessuretijd.
+              Maar zoals France Blue schrijft: 'De echte show vond niet plaats op het veld, maar op de tribune en buiten het stadion'.</h4>
 
             <h3><b>Formidabel</b></h3>
 
-            <h4 class="space">Inwoners van Le Havre wisten namelijk niet wat ze zagen toen de stoet door hun stadje trok. "Formidabel", zegt één van de toeschouwers. "Al dat het oranje bij elkaar, het is prachtig om te zien." Indrukwekkend, noemt een ander het. "Dit is de eerste keer dat ik zoiets zie bij een voetbalwedstrijd."</h4>
+            <h4 class="space">Inwoners van Le Havre wisten namelijk niet wat ze zagen toen de stoet door hun stadje trok.
+              "Formidabel", zegt één van de toeschouwers. "Al dat het oranje bij elkaar, het is prachtig om te zien."
+              Indrukwekkend, noemt een ander het. "Dit is de eerste keer dat ik zoiets zie bij een voetbalwedstrijd."</h4>
 
             <video src="../../MP4/oranjestoet1.mp4" controls class="img-responsive"></video>
 
-            <h4 class="space">Vooral het aantal mensen dat de Oranje Leeuwinnen komt supporteren, kan rekenen op waardering langs de kant. "Als er zoveel fans meereizen met een team, dan doe je toch iets goed", zegt een Fransman. "Volgens mij is dit ongekend in het vrouwenvoetbal." </h4>
+            <h4 class="space">Vooral het aantal mensen dat de Oranje Leeuwinnen komt supporteren, kan rekenen op waardering langs de kant.
+              "Als er zoveel fans meereizen met een team, dan doe je toch iets goed", zegt een Fransman.
+              "Volgens mij is dit ongekend in het vrouwenvoetbal." </h4>
 
             <h3><b>Oranje voorpagina</b></h3>
 
-            <h4 class="space">Waar gisteren de straten oranje kleurden, zijn het vandaag de Franse kranten. Op de voorpagina van de lokale krant van Le Havre prijkt een grote foto van de 'oranje golf'. De krant schrijft: 'Het vrouwenelftal van Nederland is klaarblijkelijk heel erg populair.'</h4>
+            <h4 class="space">Waar gisteren de straten oranje kleurden, zijn het vandaag de Franse kranten.
+              Op de voorpagina van de lokale krant van Le Havre prijkt een grote foto van de 'oranje golf'.
+              De krant schrijft: 'Het vrouwenelftal van Nederland is klaarblijkelijk heel erg populair.'</h4>
 
             <img src="../../IMG/oranjestoet1.jpg" class="img-responsive">
 
-            <h4 class="space">Naast het grote aantal supporters, wordt vooral de sfeer geroemd. 'De Nederlanders verzorgen de ambiance in de straten hier wel', tekent website Maville op. Op Twitter laten aanwezige journalisten weten dat ze wel van het feestje van de Nederlandse fans kunnen genieten.</h4>
+            <h4 class="space">Naast het grote aantal supporters, wordt vooral de sfeer geroemd.
+              'De Nederlanders verzorgen de ambiance in de straten hier wel', tekent website Maville op.
+              Op Twitter laten aanwezige journalisten weten dat ze wel van het feestje van de Nederlandse fans kunnen genieten.</h4>
 
             <video src="../../MP4/oranjestoet.mp4" controls class="img-responsive"></video>
 
             <h3><b>'Van links naar rechts'</b></h3>
 
-            <h4 class="space">De Franse krant L'Equipe verbaast zich over het feit dat alle mensen bij een bepaald liedje van links naar rechts springen: 'Soms stopt de bus, zodat alle mensen dezelfde simpele choreografie kunnen uitvoeren. Ze zingen: we gaan naar links, we gaan naar rechts.'</h4>
+            <h4 class="space">De Franse krant L'Equipe verbaast zich over het feit dat alle mensen bij een bepaald liedje
+              van links naar rechts springen: 'Soms stopt de bus, zodat alle mensen dezelfde simpele choreografie kunnen uitvoeren.
+              Ze zingen: we gaan naar links, we gaan naar rechts.'</h4>
 
-            <h4 class="space">Een Nederlandse legt het de Franse krant uit. "Dit deden we tijdens het EK in Nederland ook. Kun je je voorstellen dat 217.000 mensen zich zo verplaatsen? Dat was waanzin!"</h4>
+            <h4 class="space">Een Nederlandse legt het de Franse krant uit.
+              "Dit deden we tijdens het EK in Nederland ook.
+              Kun je je voorstellen dat 217.000 mensen zich zo verplaatsen? Dat was waanzin!"</h4>
 
             <h3><b>Nog grotere stoet</b></h3>
 
-            <h4 class="space">Aanstaande zaterdag kunnen de Fransen in Valenciennes een nog grotere stoet tegemoet zien dan gisteren. In het stadion zitten namelijk zeker 13.000 Oranje-fans als Nederland tegen Kameroen speelt.</h4>
+            <h4 class="space">Aanstaande zaterdag kunnen de Fransen in Valenciennes een nog grotere stoet tegemoet zien dan gisteren.
+              In het stadion zitten namelijk zeker 13.000 Oranje-fans als Nederland tegen Kameroen speelt.</h4>
           </div>
         </div>
       </div>
@@ -106,7 +125,7 @@
             <h5 class="font-weight-bold text-uppercase">Algemene info</h5>
               <p>Uw bevind zich op een nieuwssite, met veel onderwerpen gerelateerd aan ICT.</p>
               <p>Er wordt 1 onderwerp behandeld, genaamd Oracle. Ondergedeeld in:</p>
-              <p><a href="wat.php">Wat is Oracle, </a><a href="vader.php">Mijn vader, </a>en <a href="geschiedenis.php">De geschiedenis</a></p>
+              <p><a href="../../OnderwerpHTML/wat.php">Wat is Oracle, </a><a href="../../OnderwerpHTML/vader.php">Mijn vader, </a>en <a href="../../OnderwerpHTML/geschiedenis.php">De geschiedenis</a></p>
           </div>
 
           <div class="hidden-mg hidden-lg">
@@ -117,16 +136,16 @@
             <h5 class="font-weight-bold text-uppercase">Pagina's</h5>
             <ul class="list-unstyled text-uppercase">
               <li>
-                <p><a href="home.php">Home</a></p>
+                <p><a href="../../HTML/home.php">Home</a></p>
               </li>
               <li>
-                <p><a href="nieuws.php">Nieuws</a></p>
+                <p><a href="../../NieuwsHTML/ict.php">Nieuws</a></p>
               </li>
               <li>
-                <p><a href="form.php">Formulier</a></p>
+                <p><a href="../../HTML/form.php">Formulier</a></p>
               </li>
               <li>
-                <p><a href="comment.php">Reacties</a></p>
+                <p><a href="../../HTML/comment.php">Reacties</a></p>
               </li>
             </ul>
           </div>
@@ -144,11 +163,11 @@
               </li>
               <li>
                 <p>
-                  <i class="fas fa-envelope"></i> support@bramvanrhee.nl</p>
+                  <i class="fas fa-envelope"></i> <a href="mailto:support@bramvanrhee.nl">support@bramvanrhee.nl</a></p>
               </li>
               <li>
                 <p>
-                  <i class="fas fa-phone"></i> 06-23775886</p>
+                  <i class="fas fa-phone"></i> <a href="tel:06-23775886">06-23775886</a></p>
               </li>
             </ul>
           </div>
@@ -160,31 +179,31 @@
           <div class="col-md-2 col-lg-2 text-center">
             <h5 class="font-weight-bold text-uppercase">Volg ons</h5>
             <ul class="list-unstyled hidden-xs hidden-sm">
-              <li><a type="button" class="btn-floating btn-fb">
+              <li><a type="button" href="https://www.facebook.com/bram.vanrhee.1?ref=bookmarks" class="btn-floating btn-fb">
                 <i class="fab fa-facebook-square fa-2x"></i>
               </a></li>
-              <li><a type="button" class="btn-floating btn-tw">
+              <li><a type="button" href="https://twitter.com/bramvanrhee1?lang=nl" class="btn-floating btn-tw">
                 <i class="fab fa-twitter-square fa-2x"></i>
               </a></li>
-              <li><a type="button" class="btn-floating btn-gplus">
+              <li><a type="button" href="https://www.linkedin.com/in/bram-van-rhee-9b186a158/?originalSubdomain=nl" class="btn-floating btn-gplus">
                 <i class="fab fa-linkedin fa-2x"></i>
               </a></li>
-              <li><a type="button" class="btn-floating btn-gplus">
+              <li><a type="button" href="https://www.instagram.com/bramvanrhee/?hl=da" class="btn-floating btn-gplus">
                 <i class="fab fa-instagram fa-2x"></i>
               </a></li>
             </ul>
 
-            <ul class="list-unstyled list-inline visible-xs visible-sm"
-              <li><a type="button" class="btn-floating btn-fb">
+            <ul class="list-unstyled list-inline visible-xs visible-sm">
+              <li><a type="button" href="https://www.facebook.com/bram.vanrhee.1?ref=bookmarks" class="btn-floating btn-fb">
                 <i class="fab fa-facebook-square fa-2x"></i>
               </a></li>
-              <li><a type="button" class="btn-floating btn-tw">
+              <li><a type="button" href="https://twitter.com/bramvanrhee1?lang=nl" class="btn-floating btn-tw">
                 <i class="fab fa-twitter-square fa-2x"></i>
               </a></li>
-              <li><a type="button" class="btn-floating btn-gplus">
+              <li><a type="button" href="https://www.linkedin.com/in/bram-van-rhee-9b186a158/?originalSubdomain=nl" class="btn-floating btn-gplus">
                 <i class="fab fa-linkedin fa-2x"></i>
               </a></li>
-              <li><a type="button" class="btn-floating btn-gplus">
+              <li><a type="button" href="https://www.instagram.com/bramvanrhee/?hl=da" class="btn-floating btn-gplus">
                 <i class="fab fa-instagram fa-2x"></i>
               </a></li>
             </ul>

@@ -5,7 +5,9 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
-    <title>Tijdelijk</title>
+    <title>Politiek</title>
+
+    <link rel="shortcut icon" href="../../IMG/favicon.png">
 
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.3/css/all.css" integrity="sha384-UHRtZLI+pbxtHCWp1t77Bi1L4ZtiqrqD80Kn4Z8NTSRyMA2Fd33n5dQ8lWUE00s/" crossorigin="anonymous">
@@ -61,37 +63,76 @@
 
             <img src="../../IMG/sp.jpg" class="img-responsive">
 
-            <h4 class="space"><b>Fractievoorzitter Murat Memis van de SP in Eindhoven wordt vastgehouden in Turkije. Het land verdenkt hem van het lidmaatschap van een verboden organisatie, de PKK.</b></h4>
+            <h4 class="space"><b>Fractievoorzitter Murat Memis van de SP in Eindhoven wordt vastgehouden in Turkije.
+              Het land verdenkt hem van het lidmaatschap van een verboden organisatie, de PKK.</b></h4>
 
-            <h4 class="space">DVolgens de Eindhovense burgemeester John Jorritsma werd hij op 30 april in Turkije opgepakt tijdens een vakantie met zijn familie. Hij zat vier dagen in een politiecel, maar inmiddels is hij daaruit vrijgelaten. Wel is zijn Nederlandse paspoort ingenomen wegens betrokkenheid bij ‘de Koerdische zaak’, aldus de burgemeester vanavond tijdens de aanvang van een raadsvergadering.</h4>
+            <h4 class="space">DVolgens de Eindhovense burgemeester John Jorritsma werd hij op 30 april in Turkije opgepakt tijdens
+              een vakantie met zijn familie. Hij zat vier dagen in een politiecel, maar inmiddels is hij daaruit vrijgelaten.
+              Wel is zijn Nederlandse paspoort ingenomen wegens betrokkenheid bij ‘de Koerdische zaak’,
+              aldus de burgemeester vanavond tijdens de aanvang van een raadsvergadering.</h4>
 
-            <h4 class="space">Het ministerie van Buitenlandse Zaken laat weten dat Memis een uitreisverbod heeft. Hij mag Turkije niet uit in afwachting van een proces. ,,De ambassade houdt contact met hem en verleent bijstand waar nodig en mogelijk. Nederland kan zich niet mengen in de rechtsgang, maar vraagt regelmatig aandacht van de Turkse autoriteiten voor dergelijke zaken”, aldus een woordvoerder. Door het uitreisverbod wordt Memis beperkt in zijn bewegingsvrijheid en kan hij zijn   democratische plichten als gekozen volksvertegenwoordiger in de raad ook niet nakomen.</h4>
+            <h4 class="space">Het ministerie van Buitenlandse Zaken laat weten dat Memis een uitreisverbod heeft.
+              Hij mag Turkije niet uit in afwachting van een proces.
+              De ambassade houdt contact met hem en verleent bijstand waar nodig en mogelijk.
+              Nederland kan zich niet mengen in de rechtsgang,
+              maar vraagt regelmatig aandacht van de Turkse autoriteiten voor dergelijke zaken,
+              aldus een woordvoerder. Door het uitreisverbod wordt Memis beperkt in zijn bewegingsvrijheid en kan hij zijn
+              democratische plichten als gekozen volksvertegenwoordiger in de raad ook niet nakomen.</h4>
 
             <h3><b>Terroristische organisatie</b></h3>
 
-            <h4 class="space">Volgens Turkije is de PKK een terroristische organisatie. Ook de Europese Unie en de VS beschouwen de PKK, die strijdt voor meer Koerdische autonomie, als een terroristische organisatie. Binnenkort moet Memis voor een Turkse rechter verschijnen.</h4>
+            <h4 class="space">Volgens Turkije is de PKK een terroristische organisatie.
+              Ook de Europese Unie en de VS beschouwen de PKK,
+              die strijdt voor meer Koerdische autonomie, als een terroristische organisatie.
+              Binnenkort moet Memis voor een Turkse rechter verschijnen.</h4>
 
-            <h4 class="space">Zijn familie is inmiddels weer thuis. De familie verwijst voor een reactie naar de burgemeester vanwege de veiligheid van Murat, zegt zijn broer Volkan. Volkan is ook actief in Eindhoven voor D66 als commissielid. De familie is bang dat ze het proces van terugkeer in gevaar brengt als ze reageert in de pers. Wel laat Volkan weten dat Murat het naar omstandigheden goed maakt. Ze zijn allen vreselijk geschrokken.</h4>
+            <h4 class="space">Zijn familie is inmiddels weer thuis.
+              De familie verwijst voor een reactie naar de burgemeester vanwege de veiligheid van Murat,
+              zegt zijn broer Volkan. Volkan is ook actief in Eindhoven voor D66 als commissielid.
+              De familie is bang dat ze het proces van terugkeer in gevaar brengt als ze reageert in de pers.
+              Wel laat Volkan weten dat Murat het naar omstandigheden goed maakt.
+              Ze zijn allen vreselijk geschrokken.</h4>
 
-            <h4 class="space">Jorritsma wil zich verder niet uitlaten over de aanhouding van Memis. ,,Dat laat ik aan het ministerie van Buitenlandse Zaken dat zich tot op het hoogste niveau intensief met de zaak bemoeit.” De burgemeester zegt dat hij zich vanaf het allereerste begin met de zaak heeft beziggehouden. ,,In nauw overleg met het ministerie van Buitenlandse Zaken, zowel met de minister, de directeur consulaire zaken als met de Nederlandse ambassadeur in Turkije. Ook ben ik nauw   opgetrokken met de SP op landelijk en lokaal niveau en heb ik contact onderhouden met de familie. En met Murat zelf.”</h4>
+            <h4 class="space">Jorritsma wil zich verder niet uitlaten over de aanhouding van Memis.
+              Dat laat ik aan het ministerie van Buitenlandse Zaken dat zich tot op het hoogste niveau intensief met de zaak bemoeit.
+              De burgemeester zegt dat hij zich vanaf het allereerste begin met de zaak heeft beziggehouden.
+              In nauw overleg met het ministerie van Buitenlandse Zaken, zowel met de minister,
+              de directeur consulaire zaken als met de Nederlandse ambassadeur in Turkije.
+              Ook ben ik nauw opgetrokken met de SP op landelijk en lokaal niveau en heb ik contact onderhouden met de familie.
+              En met Murat zelf.</h4>
 
             <h3><b>‘Murat moet vrij!’</b></h3>
 
-            <h4 class="space">Fractievoorzitter Lilian Marijnissen heeft gereageerd op de kwestie van de Eindhovense SP-fractievoorzitter Memis. ‘Murat moet vrij!’ twittert Marijnissen, die toevoegt dat Turkije niets te maken heeft met wat een Nederlandse volksvertegenwoordiger zegt of doet. Volgens de SP wordt Memis beschuldigd van ‘zaken die in een goed functionerende rechtstaat onder de vrijheid van meningsuiting vallen’. ‘Het zouden onder meer uitingen zijn op sociale media, bijvoorbeeld over de strijd tegen Islamitische Staat.’</h4>
+            <h4 class="space">Fractievoorzitter Lilian Marijnissen heeft gereageerd op de kwestie van de Eindhovense SP-fractievoorzitter Memis.
+              ‘Murat moet vrij!’ twittert Marijnissen,
+              die toevoegt dat Turkije niets te maken heeft met wat een Nederlandse volksvertegenwoordiger zegt of doet.
+              Volgens de SP wordt Memis beschuldigd van ‘zaken die in een goed functionerende rechtstaat
+              onder de vrijheid van meningsuiting vallen’.
+              ‘Het zouden onder meer uitingen zijn op sociale media, bijvoorbeeld over de strijd tegen Islamitische Staat.’</h4>
 
-            <h4 class="space">Jannie Visscher, vice-fractievoorzitter, noemt het verschrikkelijk. ,,Murat is in de verkeerde film terechtgekomen,” zegt ze.</h4>
+            <h4 class="space">Jannie Visscher, vice-fractievoorzitter, noemt het verschrikkelijk.
+              Murat is in de verkeerde film terechtgekomen, zegt ze.</h4>
 
             <h3><b>Diplomatieke druk</b></h3>
 
-            <h4 class="space">De afgelopen maand was er de hoop dat diplomatieke druk zou helpen om Memis terug te laten keren naar Nederland. ,,Voortijdige publicatie over deze kwestie zou zijn zaak geen goed doen”, zegt de burgemeester. ,,Dat was tot nu toe de inzet van BuZa, de SP en gemeente.”</h4>
+            <h4 class="space">De afgelopen maand was er de hoop dat diplomatieke druk zou helpen om Memis terug te laten keren naar Nederland.
+              Voortijdige publicatie over deze kwestie zou zijn zaak geen goed doen”, zegt de burgemeester.
+              Dat was tot nu toe de inzet van BuZa, de SP en gemeente.</h4>
 
-            <h4 class="space">In de verklaring van Jorritsma laat hij weten dat inmiddels al veel mensen weten van Memis zijn vrijheidsbeperking in Turkije en Nederland. Daarom licht hij nu de gemeenteraad in om te laten weten dat Memis momenteel zijn werk niet naar behoren kan doen.</h4>
+            <h4 class="space">In de verklaring van Jorritsma laat hij weten dat inmiddels al veel mensen weten van Memis
+              zijn vrijheidsbeperking in Turkije en Nederland.
+              Daarom licht hij nu de gemeenteraad in om te laten weten dat Memis momenteel zijn werk niet naar behoren kan doen.</h4>
 
-            <h4 class="space">Tot slot laat Jorritsma weten dat samen met diverse partijen er alles aan gedaan wordt om Murat Memis, als Nederlands staatsburger, terug te krijgen naar Nederland om hem met zijn familie en vrienden te herenigen. Verder gaat de burgemeester niet in op de zaak.</h4>
+            <h4 class="space">Tot slot laat Jorritsma weten dat samen met diverse partijen er alles aan gedaan wordt om Murat Memis,
+              als Nederlands staatsburger, terug te krijgen naar Nederland om hem met zijn familie en vrienden te herenigen.
+              Verder gaat de burgemeester niet in op de zaak.</h4>
 
             <h3><b>Champignonkweker</b></h3>
 
-            <h4 class="space">Memis is van Koerdische afkomst en landde op 28 april in Antalya voor zaken. Hij is eigenaar van een champignonkwekerij in Brabant. Hij werd twee dagen later in een restaurant in Antalya aangehouden. Online wekte Memis de indruk nog gewoon in Eindhoven te zijn.</h4>
+            <h4 class="space">Memis is van Koerdische afkomst en landde op 28 april in Antalya voor zaken.
+              Hij is eigenaar van een champignonkwekerij in Brabant.
+              Hij werd twee dagen later in een restaurant in Antalya aangehouden.
+              Online wekte Memis de indruk nog gewoon in Eindhoven te zijn.</h4>
           </div>
         </div>
       </div>
@@ -106,7 +147,7 @@
             <h5 class="font-weight-bold text-uppercase">Algemene info</h5>
               <p>Uw bevind zich op een nieuwssite, met veel onderwerpen gerelateerd aan ICT.</p>
               <p>Er wordt 1 onderwerp behandeld, genaamd Oracle. Ondergedeeld in:</p>
-              <p><a href="wat.php">Wat is Oracle, </a><a href="vader.php">Mijn vader, </a>en <a href="geschiedenis.php">De geschiedenis</a></p>
+              <p><a href="../../OnderwerpHTML/wat.php">Wat is Oracle, </a><a href="../../OnderwerpHTML/vader.php">Mijn vader, </a>en <a href="../../OnderwerpHTML/geschiedenis.php">De geschiedenis</a></p>
           </div>
 
           <div class="hidden-mg hidden-lg">
@@ -117,16 +158,16 @@
             <h5 class="font-weight-bold text-uppercase">Pagina's</h5>
             <ul class="list-unstyled text-uppercase">
               <li>
-                <p><a href="home.php">Home</a></p>
+                <p><a href="../../HTML/home.php">Home</a></p>
               </li>
               <li>
-                <p><a href="nieuws.php">Nieuws</a></p>
+                <p><a href="../../NieuwsHTML/ict.php">Nieuws</a></p>
               </li>
               <li>
-                <p><a href="form.php">Formulier</a></p>
+                <p><a href="../../HTML/form.php">Formulier</a></p>
               </li>
               <li>
-                <p><a href="comment.php">Reacties</a></p>
+                <p><a href="../../HTML/comment.php">Reacties</a></p>
               </li>
             </ul>
           </div>
@@ -144,11 +185,11 @@
               </li>
               <li>
                 <p>
-                  <i class="fas fa-envelope"></i> support@bramvanrhee.nl</p>
+                  <i class="fas fa-envelope"></i> <a href="mailto:support@bramvanrhee.nl">support@bramvanrhee.nl</a></p>
               </li>
               <li>
                 <p>
-                  <i class="fas fa-phone"></i> 06-23775886</p>
+                  <i class="fas fa-phone"></i> <a href="tel:06-23775886">06-23775886</a></p>
               </li>
             </ul>
           </div>
@@ -160,31 +201,31 @@
           <div class="col-md-2 col-lg-2 text-center">
             <h5 class="font-weight-bold text-uppercase">Volg ons</h5>
             <ul class="list-unstyled hidden-xs hidden-sm">
-              <li><a type="button" class="btn-floating btn-fb">
+              <li><a type="button" href="https://www.facebook.com/bram.vanrhee.1?ref=bookmarks" class="btn-floating btn-fb">
                 <i class="fab fa-facebook-square fa-2x"></i>
               </a></li>
-              <li><a type="button" class="btn-floating btn-tw">
+              <li><a type="button" href="https://twitter.com/bramvanrhee1?lang=nl" class="btn-floating btn-tw">
                 <i class="fab fa-twitter-square fa-2x"></i>
               </a></li>
-              <li><a type="button" class="btn-floating btn-gplus">
+              <li><a type="button" href="https://www.linkedin.com/in/bram-van-rhee-9b186a158/?originalSubdomain=nl" class="btn-floating btn-gplus">
                 <i class="fab fa-linkedin fa-2x"></i>
               </a></li>
-              <li><a type="button" class="btn-floating btn-gplus">
+              <li><a type="button" href="https://www.instagram.com/bramvanrhee/?hl=da" class="btn-floating btn-gplus">
                 <i class="fab fa-instagram fa-2x"></i>
               </a></li>
             </ul>
 
-            <ul class="list-unstyled list-inline visible-xs visible-sm"
-              <li><a type="button" class="btn-floating btn-fb">
+            <ul class="list-unstyled list-inline visible-xs visible-sm">
+              <li><a type="button" href="https://www.facebook.com/bram.vanrhee.1?ref=bookmarks" class="btn-floating btn-fb">
                 <i class="fab fa-facebook-square fa-2x"></i>
               </a></li>
-              <li><a type="button" class="btn-floating btn-tw">
+              <li><a type="button" href="https://twitter.com/bramvanrhee1?lang=nl" class="btn-floating btn-tw">
                 <i class="fab fa-twitter-square fa-2x"></i>
               </a></li>
-              <li><a type="button" class="btn-floating btn-gplus">
+              <li><a type="button" href="https://www.linkedin.com/in/bram-van-rhee-9b186a158/?originalSubdomain=nl" class="btn-floating btn-gplus">
                 <i class="fab fa-linkedin fa-2x"></i>
               </a></li>
-              <li><a type="button" class="btn-floating btn-gplus">
+              <li><a type="button" href="https://www.instagram.com/bramvanrhee/?hl=da" class="btn-floating btn-gplus">
                 <i class="fab fa-instagram fa-2x"></i>
               </a></li>
             </ul>
